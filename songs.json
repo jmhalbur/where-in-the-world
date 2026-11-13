@@ -13,8 +13,8 @@
       "RU"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vTWrEg9WX-ST3QhZVIcXsq9g4JennVyG6grSRfJWz2llupg4u__zEKCA4twuXUWhsG0y2vbBr9r4XEk/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=CqwrwwOzVcQ"
+    "videoUrl": "https://www.youtube.com/watch?v=CqwrwwOzVcQ",
+    "summary": "OTYKEN draws on Indigenous musical traditions of Siberia. Listen for drums, jaw harp, string instruments, and throat-singing techniques."
   },
   {
     "id": "song-C-A0IAVWuy4",
@@ -30,8 +30,8 @@
       "GB"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSrEhzzDDmMU7zdQBpXgumNpLmNmNN7nZFS3Ap2_-5jaj87vaQPy5AALu9Sz_CB5SFxv_gn2PJEJIo3/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=C-A0IAVWuy4"
+    "videoUrl": "https://www.youtube.com/watch?v=C-A0IAVWuy4",
+    "summary": "This medieval English round dates to the 1200s. Its overlapping voices celebrate the arrival of summer."
   },
   {
     "id": "song-04fEWQOwUD4",
@@ -47,8 +47,8 @@
       "BY"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vTWrEg9WX-ST3QhZVIcXsq9g4JennVyG6grSRfJWz2llupg4u__zEKCA4twuXUWhsG0y2vbBr9r4XEk/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=04fEWQOwUD4"
+    "videoUrl": "https://www.youtube.com/watch?v=04fEWQOwUD4",
+    "summary": "Polish singing group Laboratorium Pieśni performs a traditional Belarusian song. Listen for layers of voices telling a story about swans and the sea."
   },
   {
     "id": "song-FEuuBokjVRk",
@@ -66,8 +66,8 @@
     "communities": [
       "Hmong"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vRcqepJRnkbsrn8ZZ2r6jZ-hWUYFtoRiIhdaTiFieCe17lJTKYkt5n2EE46_E5EKALc8xiji2g2B_cT/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=FEuuBokjVRk"
+    "videoUrl": "https://www.youtube.com/watch?v=FEuuBokjVRk",
+    "summary": "Douachi Yang is a Hmong American singer and songwriter from Saint Paul. Her music connects with Hmong language and community."
   },
   {
     "id": "song-C8X9T2tV2Eg",
@@ -83,13 +83,13 @@
     "communities": [
       "Polynesian"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vRcqepJRnkbsrn8ZZ2r6jZ-hWUYFtoRiIhdaTiFieCe17lJTKYkt5n2EE46_E5EKALc8xiji2g2B_cT/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=C8X9T2tV2Eg"
+    "videoUrl": "https://www.youtube.com/watch?v=C8X9T2tV2Eg",
+    "summary": "Te Vaka blends contemporary music with Pacific Island traditions. Listen for voices and the powerful rhythms of wooden log drums."
   },
   {
     "id": "song-TFfwM7T4pl4",
     "title": "Arday Baan Ahayoo",
-    "artist": "",
+    "artist": "Astaan Ubad",
     "country": "Somalia",
     "countryCode": "SO",
     "language": "",
@@ -100,8 +100,8 @@
       "SO"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSEQnEOYF6vhhOGV5RN4Sip2LfSYirqA7qoVY2mYIdwG4zI7UEo5niQxEFtvB78hwKq45V3d4BAcj8g/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=TFfwM7T4pl4"
+    "videoUrl": "https://www.youtube.com/watch?v=TFfwM7T4pl4",
+    "summary": "“Arday Baan Ahayoo” means “I am a student.” This Somali children's song from Astaan Ubad celebrates learning and school."
   },
   {
     "id": "song-9DesJBgMUJA",
@@ -117,13 +117,13 @@
       "CO"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vRkTlMYq30gcba68JGHBY9LmPqj8K8uEmeC-6wzLqp18zdu6WDIChKdO9p0grXBvZQ4meKPRVWF3XjN/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=9DesJBgMUJA"
+    "videoUrl": "https://www.youtube.com/watch?v=9DesJBgMUJA",
+    "summary": "AAINJAA is a Colombian percussion group. Batucada is a fast, energetic samba drumming style with many interlocking rhythms."
   },
   {
     "id": "song-BLyRilEJnXk",
     "title": "Afrika Hey",
-    "artist": "",
+    "artist": "Ndlovu Youth Choir, Sun-El Musician & Kenza",
     "country": "South Africa",
     "countryCode": "ZA",
     "language": "",
@@ -134,13 +134,13 @@
       "ZA"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vROcmy12djKdzk_kzoRaLoVvuXpTQ-gq0USD4HlkIEPybll_sc7dwuqLrBtWXRxT4EzLCO-k5CGByXk/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=BLyRilEJnXk"
+    "videoUrl": "https://www.youtube.com/watch?v=BLyRilEJnXk",
+    "summary": "South Africa's Ndlovu Youth Choir performs with producers Sun-El Musician and Kenza, combining choral singing and dance music."
   },
   {
     "id": "song-OiVU-W9VT7Q",
     "title": "Supaman",
-    "artist": "",
+    "artist": "Supaman",
     "country": "United States",
     "countryCode": "US",
     "language": "",
@@ -153,8 +153,8 @@
     "communities": [
       "Apsáalooke (Crow)"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vQcd4Of76GGtOpZIocvAwuT_g1ZbIuY9e6nB-6z3JYzZgX7ylGQfCFN8tRsJtk6kF_rQLbBuSvriEon/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=OiVU-W9VT7Q"
+    "videoUrl": "https://www.youtube.com/watch?v=OiVU-W9VT7Q",
+    "summary": "Supaman is an Apsáalooke (Crow) hip-hop musician from Montana. His performance features dancer Acosia Red Elk."
   },
   {
     "id": "song-XqvKDCP5-xE",
@@ -170,8 +170,8 @@
       "IL"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vQspDIc7TXorMoZOVhcpi5pBzXg0AhQvhQ3bhyeld0h5gWIH1H3rG0mV4TEG9SKXDrOy58LdKL6LWAa/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=XqvKDCP5-xE"
+    "videoUrl": "https://www.youtube.com/watch?v=XqvKDCP5-xE",
+    "summary": "Koolulam brings people together through group singing. This version of Matisyahu's “One Day” celebrates music as a way to connect."
   },
   {
     "id": "song-k4Ii-RZDj2c",
@@ -187,13 +187,13 @@
       "CU"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vTTy9jg3S6RhdVOORqa6AH_d3P7SHwtT2ZxWD8LFpV7mSdQlEytxzxuEEU49iC9G59ZHtp1BTEtzx_E/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=k4Ii-RZDj2c"
+    "videoUrl": "https://www.youtube.com/watch?v=k4Ii-RZDj2c",
+    "summary": "Cuban composer Ernesto Lecuona wrote “Malagueña,” inspired by music from Spain. Listen for dramatic melodic changes in Anat Navarro's performance."
   },
   {
     "id": "song-JDTp_YQizqE",
     "title": "Sakura",
-    "artist": "",
+    "artist": "Kasumi Watanabe",
     "country": "Japan",
     "countryCode": "JP",
     "language": "",
@@ -204,13 +204,13 @@
       "JP"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSC_CTj656Bw52Tny8d_nUYJF3rBW-n-x3vGL6hYljsx7VhWvNCwU2JJqtqYXGAA9d6kEvrmHqH4ocA/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=JDTp_YQizqE"
+    "videoUrl": "https://www.youtube.com/watch?v=JDTp_YQizqE",
+    "summary": "“Sakura” is a Japanese song about cherry blossoms. Kasumi Watanabe performs on a 25-string koto, a traditional plucked-string instrument."
   },
   {
     "id": "song-kZHfmgIb4mc",
     "title": "Jalikunda African Drums",
-    "artist": "",
+    "artist": "Jalikunda",
     "country": "Senegal",
     "countryCode": "SN",
     "language": "",
@@ -221,8 +221,8 @@
       "SN"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSVfOlhb6OkKvKhmG2rGN1wEcFVGChSWigE8h9DyVceuKZBFmUDmc5HbbVbLSWMWN7RgMoXkR00ZngM/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=kZHfmgIb4mc"
+    "videoUrl": "https://www.youtube.com/watch?v=kZHfmgIb4mc",
+    "summary": "Jalikunda shares West African drumming and storytelling traditions. Griots are musicians who help preserve community history through song."
   },
   {
     "id": "song-l_MyUGq7pgs",
@@ -238,8 +238,8 @@
       "IN"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSVfOlhb6OkKvKhmG2rGN1wEcFVGChSWigE8h9DyVceuKZBFmUDmc5HbbVbLSWMWN7RgMoXkR00ZngM/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=l_MyUGq7pgs"
+    "videoUrl": "https://www.youtube.com/watch?v=l_MyUGq7pgs",
+    "summary": "“Malhari” is a Bollywood song-and-dance performance from the Hindi film Bajirao Mastani. Notice the combination of music, choreography, and storytelling."
   },
   {
     "id": "song-t4CAjr4Pr_0",
@@ -255,8 +255,8 @@
       "NZ"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vRCm0rCSxHksl--HJeYI_ajQbTSx6h17ZARl5HnVXIL5RzIMmTozjH4VMaOgzIFY9QOxDFsKA-7loVv/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=t4CAjr4Pr_0"
+    "videoUrl": "https://www.youtube.com/watch?v=t4CAjr4Pr_0",
+    "summary": "This performance draws on Māori language and musical traditions from Aotearoa New Zealand. Listen for the relationship between voice and rhythm."
   },
   {
     "id": "song-wlfAf2AibA8",
@@ -272,8 +272,8 @@
       "CL"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSBjslXA1iUCduOGLS8LdJZ5i0QgrfvSBKAzwjeqL409JuzuzrIJTwdAPLVPGtEyhtqZhNoek8YO6yk/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=wlfAf2AibA8"
+    "videoUrl": "https://www.youtube.com/watch?v=wlfAf2AibA8",
+    "summary": "“The Right to Live in Peace” was written by Chilean musician Víctor Jara. Later artists recorded it to call for peace and justice."
   },
   {
     "id": "song-8Z8iniXjS5A",
@@ -291,8 +291,8 @@
     "communities": [
       "Oromo"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vTKTWMg4aypAQLhunKlCJIScX9UemFxALwiL5N84_zTcHg9hIq8iYuBFhPm-aYm0K9ENuL8ZbY4je52/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=8Z8iniXjS5A"
+    "videoUrl": "https://www.youtube.com/watch?v=8Z8iniXjS5A",
+    "summary": "Sona Takele sings in Afaan Oromoo, an Ethiopian language. “Warra Boolee” blends modern pop with Oromo musical influences."
   },
   {
     "id": "song-g38lIZMn99c",
@@ -310,8 +310,8 @@
     "communities": [
       "Kalaallit / Greenlandic"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSqD_uvbT_xfuAhqeNzauRNZgy8WaphcTLk1f7cPclmoI8vaRe0ZsJ-jaRmf5GBjPmxHexzIGDQUyrt/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=g38lIZMn99c"
+    "videoUrl": "https://www.youtube.com/watch?v=g38lIZMn99c",
+    "summary": "Nive Nielsen is an Inuk singer from Greenland who often plays a small red ukulele. This video was filmed during a very cold winter in Uummannaq."
   },
   {
     "id": "song-XFFsuhC1lKw",
@@ -329,8 +329,8 @@
     "communities": [
       "Karen"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vQjsYHefeKfE6QfayF2bIGNqDsrySiQT-WZXeF4r5P_RJe5uhV1AYJJItm_FEStcILmiNmqhmJI33wN/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=XFFsuhC1lKw"
+    "videoUrl": "https://www.youtube.com/watch?v=XFFsuhC1lKw",
+    "summary": "“Beautiful Karen” celebrates Karen communities in Myanmar, Thailand, and beyond. Debary and featured artists combine modern pop with Karen cultural expression."
   },
   {
     "id": "song-DxcVa4xHtZo",
@@ -346,8 +346,8 @@
       "KE"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vRl6FUCfxTTuLnd-JkzGjy3Twy8G_ijUQi4hZ8OBYvcF8rJKVhYGFBlBVMxaShg6cqHQAMZ5doSVLlV/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=DxcVa4xHtZo"
+    "videoUrl": "https://www.youtube.com/watch?v=DxcVa4xHtZo",
+    "summary": "“Jambo Bwana” is a Kenyan welcome song. Listen for Swahili greetings including “jambo” (hello) and “hakuna matata” (no worries)."
   },
   {
     "id": "song-c9sh-FsXC2w",
@@ -363,13 +363,13 @@
       "SY"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vT5G7RRVZ0mKG6lheMP8hjyBrFDCCjrnyl2bxzkXqyX6ZOZ2QYmr-5cNFkrD5tEsRtmJttZr9t-8NGN/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=c9sh-FsXC2w"
+    "videoUrl": "https://www.youtube.com/watch?v=c9sh-FsXC2w",
+    "summary": "Syrian band Takkat performs a modern arrangement of a traditional Arabic song, blending older musical heritage with contemporary sounds."
   },
   {
     "id": "song-fWH_AQQi_5I",
     "title": "É Proibido Cochilar",
-    "artist": "",
+    "artist": "Mari Campolongo",
     "country": "Brazil",
     "countryCode": "BR",
     "language": "",
@@ -380,8 +380,8 @@
       "BR"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vRooTx13TdOnQRhfJTjD5HOvHeOC_z0zb0Jnn9hWOb8zM0EyeZIZkAtMPuu9cLyHQxSsgtBCr9xyESc/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=fWH_AQQi_5I"
+    "videoUrl": "https://www.youtube.com/watch?v=fWH_AQQi_5I",
+    "summary": "“É Proibido Cochilar” means “No Sleeping Allowed.” Mari Campolongo performs this lively Brazilian forró song with an asalato, a handheld percussion instrument."
   },
   {
     "id": "song-_WLfqDMwA_o",
@@ -397,8 +397,8 @@
       "PH"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vTDvCaUNstXq-Afy1v8wKhPkbsUPNmA7jR1cov8LxrpNWSSEM29POzFJTssDCTKiqDE4KuFmtnhO7PK/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=_WLfqDMwA_o"
+    "videoUrl": "https://www.youtube.com/watch?v=_WLfqDMwA_o",
+    "summary": "Tinikling is a Filipino folk dance in which dancers time their steps between moving bamboo poles. The poles make a rhythm of their own."
   },
   {
     "id": "song-QqnbJWyydqs",
@@ -414,8 +414,8 @@
       "PH"
     ],
     "communities": [],
-    "source": "",
-    "videoUrl": "https://www.youtube.com/watch?v=QqnbJWyydqs"
+    "videoUrl": "https://www.youtube.com/watch?v=QqnbJWyydqs",
+    "summary": "This performance adds a contemporary hip-hop style to Filipino tinikling. Watch how dancers coordinate with the moving bamboo poles."
   },
   {
     "id": "song-7dbXPw11AE4",
@@ -431,13 +431,13 @@
       "US"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vRhiDc258zbV1wNJ-DCFQ3hGYECuwJUSL6J6gNXgmKIaen0yEQYfv-AdScwOZ74Rsn0CKFAlwTqynrt/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=7dbXPw11AE4"
+    "videoUrl": "https://www.youtube.com/watch?v=7dbXPw11AE4",
+    "summary": "Melanie DeMore's “Lead with Love” is about persistence, hope, and supporting one another. Its repeating words invite everyone to sing."
   },
   {
     "id": "song-1KJGBhCEBiw",
     "title": "ព្រោះតែអូន",
-    "artist": "Cover by Lida",
+    "artist": "Vann Lida (Sinn Sisamouth cover)",
     "country": "Cambodia",
     "countryCode": "KH",
     "language": "",
@@ -448,8 +448,8 @@
       "KH"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vR-r3rGcERHJ5KfM0bHvLd42U6fGvbAH_nJSKJgOROBgpgPeCFIzxsxT9ruWkGiusOXrZxD9qCpfXDd/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=1KJGBhCEBiw"
+    "videoUrl": "https://www.youtube.com/watch?v=1KJGBhCEBiw",
+    "summary": "Vann Lida performs a cover of a song associated with Cambodian singer Sinn Sisamouth. A cover is a new performance of an existing song."
   },
   {
     "id": "song-m4C58lmv1J4",
@@ -465,13 +465,13 @@
       "DE"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vR1ttxSrQT5eTsBVw5gKc8lnkwbKgqlTvsReCAMRJqfux_FfDIGhpB3KiCtePDHTLqDCSkMzdzBH9Ub/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=m4C58lmv1J4"
+    "videoUrl": "https://www.youtube.com/watch?v=m4C58lmv1J4",
+    "summary": "MEUTE is a German techno marching band. Its brass and percussion instruments recreate sounds often associated with electronic dance music."
   },
   {
     "id": "song-1GBG77e-9hc",
     "title": "Carnaval de mi tierra",
-    "artist": "",
+    "artist": "Los Hermanos Lovo",
     "country": "El Salvador",
     "countryCode": "SV",
     "language": "",
@@ -482,8 +482,8 @@
       "SV"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vTJ-qOIpq-tkZfh5hEPmWOJ906j7nyMxjzt5C6Y0-iuoPWb77dCunj0El9-G3-aPPAsjlLHTfhbT9rP/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=1GBG77e-9hc"
+    "videoUrl": "https://www.youtube.com/watch?v=1GBG77e-9hc",
+    "summary": "Los Hermanos Lovo play chanchona music from El Salvador. Their song celebrates the carnival of San Miguel, with violins and a large string bass."
   },
   {
     "id": "song-Z5NoQg8LdDk",
@@ -499,8 +499,8 @@
       "US"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vStXxjh-6-3H6nOGzTJEy9oXCHnFRvqdf8xShzpwLeYA23VTA3ODMa_ycSulmQE5YMlpM_eq41AK8zh/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=Z5NoQg8LdDk"
+    "videoUrl": "https://www.youtube.com/watch?v=Z5NoQg8LdDk",
+    "summary": "Polyphia is an instrumental rock band known for intricate guitar playing. “Playing God” combines acoustic-style guitar sounds and modern rhythms."
   },
   {
     "id": "song-FGM3U3buQj0",
@@ -516,8 +516,8 @@
       "US"
     ],
     "communities": [],
-    "source": "",
-    "videoUrl": "https://www.youtube.com/watch?v=FGM3U3buQj0"
+    "videoUrl": "https://www.youtube.com/watch?v=FGM3U3buQj0",
+    "summary": "Tim Henson and Marcin bring together different guitar-playing techniques. Watch how they make both melodies and rhythms with their instruments."
   },
   {
     "id": "song-1ti2YCFgCoI",
@@ -533,8 +533,8 @@
       "JM"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vS9DHM7Q1TEC4Iy7d2aUvddvEGcVAdFDO5t7DOiDndYMWPZQoYc78jCVJa4sJ_lQcUO3Egg6QhwW0Yy/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=1ti2YCFgCoI"
+    "videoUrl": "https://www.youtube.com/watch?v=1ti2YCFgCoI",
+    "summary": "Bob Marley & The Wailers combine reggae and disco influences in “Could You Be Loved,” a song about love and being true to yourself."
   },
   {
     "id": "song-IhQEBAl3Gpk",
@@ -550,8 +550,8 @@
       "JM"
     ],
     "communities": [],
-    "source": "",
-    "videoUrl": "https://www.youtube.com/watch?v=IhQEBAl3Gpk"
+    "videoUrl": "https://www.youtube.com/watch?v=IhQEBAl3Gpk",
+    "summary": "Bob Marley's reggae song “Get Up, Stand Up” encourages listeners to speak up for their rights. Listen for the repeated chorus and rhythmic groove."
   },
   {
     "id": "song-ny78BCBir2Q",
@@ -567,8 +567,8 @@
       "CM"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vThRthbZpbIBXk-u8XLyuRjXFIVUJAy6dqLB2rLLKvx-hpQCBQhHmDH6ud07KbOHUU0I1duYRuN6ofV/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=ny78BCBir2Q"
+    "videoUrl": "https://www.youtube.com/watch?v=ny78BCBir2Q",
+    "summary": "Cameroonian musician Manu Dibango made “Soul Makossa” famous. Makossa is dance music from Cameroon; listen for saxophone, funk, and jazz influences."
   },
   {
     "id": "song-H-zLnfJR78A",
@@ -584,13 +584,13 @@
       "VN"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vQOhDf4CnifskvuSzyRfPdMoRp7AjccyHBPjNe0OpccZE9AM8vRuYQOiUmf9MiPX8E2QeAlNaH3viqg/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=H-zLnfJR78A"
+    "videoUrl": "https://www.youtube.com/watch?v=H-zLnfJR78A",
+    "summary": "Vietnamese singer Lương Khánh Vy performs a song connected with the Mekong Delta, a region known for rivers, canals, and boats."
   },
   {
     "id": "song-Awfm6YHyUk0",
     "title": "G.oka - Ana Msh Faker El Kobleh",
-    "artist": "",
+    "artist": "G.oka",
     "country": "Egypt",
     "countryCode": "EG",
     "language": "",
@@ -601,8 +601,8 @@
       "EG"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vS2Axn3lod0RMaTBvoPd9SjSZVz8qQby8-CSeoRq2ODCi7qVNqsl95sYSrhnD33g5WhxQ71WypuhKck/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=Awfm6YHyUk0"
+    "videoUrl": "https://www.youtube.com/watch?v=Awfm6YHyUk0",
+    "summary": "Egyptian musician G.oka performs mahraganat, a high-energy electronic street-music style. The playful title means “I don't remember the verse!”"
   },
   {
     "id": "song-4LCWsb_QaPc",
@@ -618,8 +618,8 @@
       "VE"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vQMFHeJUh58vHunYX8keJ1ZUMrTrxRZYzCUaNLhaWgqi5wDjt55Qt-xPsZwptoEQOe32W8Vlpz_zBtf/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=4LCWsb_QaPc"
+    "videoUrl": "https://www.youtube.com/watch?v=4LCWsb_QaPc",
+    "summary": "Venezuelan band Desorden Público sings about people who leave their homeland and those who remain. The song expresses sadness and hope for reunion."
   },
   {
     "id": "song-PsfVYQ8zd4M",
@@ -637,8 +637,8 @@
     "communities": [
       "Amharic"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vT1GGxoW1YSWSvaUjdN7NeE5qONYQhuHCdRRjCVR9XgQODzwhM-R8ZJVbPiPu0wos15xN3dkNKsJKOo/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=PsfVYQ8zd4M"
+    "videoUrl": "https://www.youtube.com/watch?v=PsfVYQ8zd4M",
+    "summary": "Abby Lakew sings in Amharic and celebrates Ethiopian culture. Watch for shoulder movements connected with the Ethiopian dance eskista."
   },
   {
     "id": "song-hlVejMUzDqQ",
@@ -656,8 +656,8 @@
     "communities": [
       "Tigrinya"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vToexFS5N8ku9nTnABDWVbOEd7ihyvE20-DADgqa985CYCPTilTcunZQUX_-50ecGOr3jQUfif5Wcz5/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=hlVejMUzDqQ"
+    "videoUrl": "https://www.youtube.com/watch?v=hlVejMUzDqQ",
+    "summary": "Afrikaan Ali shares music connected with the Afar people of Ethiopia and nearby countries. Listen for rhythmic clapping and singing."
   },
   {
     "id": "song-iJRUeneG7pg",
@@ -675,8 +675,8 @@
     "communities": [
       "Afar"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vQBNNtUOYj7i7NKRGPb2BgNMnQpGv7GlqJpQGYUBQEYtag-IxuLTSGrdF8vccrhFJazLSGt-aDvl_Nu/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=iJRUeneG7pg"
+    "videoUrl": "https://www.youtube.com/watch?v=iJRUeneG7pg",
+    "summary": "Timnit Welday's music connects with Tigrinya-speaking communities of the Horn of Africa. Notice how the singing and dancing fit the beat."
   },
   {
     "id": "song-KweOg8P1Dlw",
@@ -692,8 +692,8 @@
       "NI"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSSM7bcNP96k3Vi8S-SepNUgEuik5VwDq3r72_8BiRciAZTMdth40NlRtadcfv-l7OpTCLbUw64npuT/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=KweOg8P1Dlw"
+    "videoUrl": "https://www.youtube.com/watch?v=KweOg8P1Dlw",
+    "summary": "“Vuelvo” means “I return.” Nicaraguan reggae musician Philip Montalbán explores connections to home, family, and Afro-Caribbean culture."
   },
   {
     "id": "song-cwbMyAIqZ4E",
@@ -709,8 +709,8 @@
       "NP"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSSM7bcNP96k3Vi8S-SepNUgEuik5VwDq3r72_8BiRciAZTMdth40NlRtadcfv-l7OpTCLbUw64npuT/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=cwbMyAIqZ4E"
+    "videoUrl": "https://www.youtube.com/watch?v=cwbMyAIqZ4E",
+    "summary": "“Dashain Aayo” means “Dashain has arrived!” This song celebrates an important festival in Nepal."
   },
   {
     "id": "song-lh6Ltp5Ew9k",
@@ -728,8 +728,8 @@
     "communities": [
       "Pashto"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSPqwTghczYFFmuEC5jl_MugKvZ4wuSBkmCoorNRehjJb1-SvUATKPamudB1jqCKiZx1gsqpbDARJNv/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=lh6Ltp5Ew9k"
+    "videoUrl": "https://www.youtube.com/watch?v=lh6Ltp5Ew9k",
+    "summary": "“Larsha Pekhawar” means “Go to Peshawar.” This Pashto-language performance combines singing and rap; listen for the rubab string instrument."
   },
   {
     "id": "song-dxjFNvwZUhA",
@@ -745,8 +745,8 @@
       "AU"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vStlNZG1_ORYoaRGBjC1ywAZ_q8qw4Y5TZns6lkyfprsGzWsOubjN1h3kS1Az_OJZZUNUL4R3rhJaOX/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=dxjFNvwZUhA"
+    "videoUrl": "https://www.youtube.com/watch?v=dxjFNvwZUhA",
+    "summary": "Baker Boy is an Aboriginal Australian rapper who performs in Yolŋu Matha and English. “Marryuna” celebrates dance and language."
   },
   {
     "id": "song-a1ozTSkE27U",
@@ -762,8 +762,8 @@
       "CO"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vRRiVE2VJNxZHtoE-AGVVrdv-h37bPMlzH2rK62_7HSCudnih_NErKmhS1TUDXwDlm1Iq9xl5y1R6tx/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=a1ozTSkE27U"
+    "videoUrl": "https://www.youtube.com/watch?v=a1ozTSkE27U",
+    "summary": "Colombian group Nasa Histoires blends pop and jazz. The bougainvillea flower in “Bugambilia” represents hope during difficult feelings."
   },
   {
     "id": "song-O8yq399dsyk",
@@ -779,13 +779,13 @@
       "BD"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vT6oZeG9_N1ysgYgDpFMkLyzXWz2xmdTs1LtREYLD36P_-d7koGN2FE6-I3VIhtRZPOVKlL0wK8rJU_/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=O8yq399dsyk"
+    "videoUrl": "https://www.youtube.com/watch?v=O8yq399dsyk",
+    "summary": "Bangladeshi musician Pritom Hasan blends modern pop with traditional boat-racing song influences. “Deora” celebrates teamwork and energy."
   },
   {
     "id": "song-NJZW8U9bbmM",
     "title": "Oye Como Va",
-    "artist": "",
+    "artist": "Playing for Change",
     "country": "Cuba",
     "countryCode": "CU",
     "language": "",
@@ -796,8 +796,8 @@
       "CU"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSnshaPfRoDYjBsVWzfhlPE6mWXUcHtGnTFwnDEJD0eGbC3fRfTgvGJ1CWvlo-btMn84FdxTvysXmUl/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=NJZW8U9bbmM"
+    "videoUrl": "https://www.youtube.com/watch?v=NJZW8U9bbmM",
+    "summary": "Playing for Change brings musicians from around the world together for “Oye Cómo Va,” blending Latin rhythms and rock."
   },
   {
     "id": "koi-ladki-hai",
@@ -808,7 +808,6 @@
     "language": "Hindi",
     "style": "Bollywood film song",
     "visible": true,
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vR_iH1EzjXdDsA_Dr-b3pEZ_KBbYVBkc-yJbmqV5d1EASk9Xnum-9dlJ3aCHoW7tOCCV7E-2hPAHGoV/pub?start=false&loop=false&delayms=3000",
     "facts": [
       "From the 1997 film Dil To Pagal Hai",
       "The title means ‘There Is a Girl.’",
@@ -819,7 +818,8 @@
       "IN"
     ],
     "communities": [],
-    "videoUrl": "https://www.youtube.com/watch?v=u6bk53x2Kno"
+    "videoUrl": "https://www.youtube.com/watch?v=u6bk53x2Kno",
+    "summary": "“Koi Ladki Hai” is a Hindi film song from Dil To Pagal Hai. Lata Mangeshkar and Udit Narayan sing while actors perform on screen."
   },
   {
     "id": "montuno",
@@ -830,7 +830,6 @@
     "language": "Spanish",
     "style": "Son montuno",
     "visible": true,
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSuUw77aTqVDDYAbh3rCfDfTWzi2jfjwcy4nmU8o2hl78gEYySWtD22-6UtN-_PEGGndu6j09GCVysJ/pub?start=false&loop=false&delayms=3000",
     "facts": [
       "From the 1993 album Mi Tierra (‘My Homeland’).",
       "Written by Cuban musician Juanito Márquez.",
@@ -841,12 +840,13 @@
       "CU"
     ],
     "communities": [],
-    "videoUrl": "https://www.youtube.com/watch?v=gq4UIbpU6gY"
+    "videoUrl": "https://www.youtube.com/watch?v=gq4UIbpU6gY",
+    "summary": "Gloria Estefan's “Montuno” celebrates Cuban son montuno, with repeating instrumental patterns, percussion, and call and response."
   },
   {
     "id": "song-Ddg5TzR-wbk",
     "title": "Dúlaman",
-    "artist": "",
+    "artist": "Celtic Woman (Lisa Lambe)",
     "country": "Ireland",
     "countryCode": "IE",
     "language": "",
@@ -857,13 +857,13 @@
       "IE"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vT3AQ2KyvNQvd30Vr-xFReyrzFFfqRC1gFMB2nJhII_NTS3tbdkXQRyVsXEiNe8Qxshh4m6npxu2LnO/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=Ddg5TzR-wbk"
+    "videoUrl": "https://www.youtube.com/watch?v=Ddg5TzR-wbk",
+    "summary": "“Dúlaman” is a traditional Irish-language song about seaweed. Celtic Woman's arrangement features singer Lisa Lambe."
   },
   {
     "id": "song-getnHpYUxoM",
     "title": "Maskara",
-    "artist": "",
+    "artist": "Saint Levant & Mohammed Assaf",
     "country": "Palestine",
     "countryCode": "PS",
     "language": "",
@@ -874,8 +874,8 @@
       "PS"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vR8XE02WoNV4wVEDHsmLtpieQD7X9doIdGUfeQauQPf-TcUDbpfAKZB7Eml1PGngu1ModNF21lswRjH/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=getnHpYUxoM"
+    "videoUrl": "https://www.youtube.com/watch?v=getnHpYUxoM",
+    "summary": "Saint Levant and Mohammed Assaf perform Palestinian Arabic pop. The video features dabkeh, a group dance with synchronized steps and stomps."
   },
   {
     "id": "song-m65jhGwtWrg",
@@ -891,8 +891,8 @@
       "FR"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vRbS440aS8YfdEH1BfPbuibght2hBThnnjC4zq9z6DMmtrNS8dbCu3K2k3J5GUBPz_NyJaDtGj_Uypy/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=m65jhGwtWrg"
+    "videoUrl": "https://www.youtube.com/watch?v=m65jhGwtWrg",
+    "summary": "French singer Indila's “S.O.S.” is about feeling lost and calling out for help. Listen for the emotion in her voice."
   },
   {
     "id": "drum-tao",
@@ -903,7 +903,6 @@
     "language": "Japanese",
     "style": "Modern taiko performance",
     "visible": true,
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vRbS440aS8YfdEH1BfPbuibght2hBThnnjC4zq9z6DMmtrNS8dbCu3K2k3J5GUBPz_NyJaDtGj_Uypy/pub?start=false&loop=false&delayms=3000",
     "facts": [
       "DRUM TAO is a taiko drumming group from Japan.",
       "Wadaiko are Japanese drums of different shapes and sizes.",
@@ -914,7 +913,8 @@
       "JP"
     ],
     "communities": [],
-    "videoUrl": "https://www.youtube.com/watch?v=lE6N_QD99C8"
+    "videoUrl": "https://www.youtube.com/watch?v=lE6N_QD99C8",
+    "summary": "DRUM TAO is a Japanese taiko ensemble. Its performers combine powerful wadaiko drums, coordinated rhythms, and movement."
   },
   {
     "id": "song-lE6N_QD99C8",
@@ -932,8 +932,8 @@
       "US"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSs7DJvySS72VAEyrrmpbc9HR7Sb1OI7Eksk4FqcN-_liddRvSh44uKCdzMdOirjTvxJsw2_JlvSIAs/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://youtu.be/-osHKZS6KGM"
+    "videoUrl": "https://youtu.be/-osHKZS6KGM",
+    "summary": "Michael Prince's contemporary performance invites you to notice the connections among rhythm, singing, and movement."
   },
   {
     "id": "liquindi",
@@ -944,7 +944,6 @@
     "language": "Baka",
     "style": "Water drumming",
     "visible": true,
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSrW2IP3NjNh9XV9LfIsOYLal115ur_wRfe7qg8OfanTYfDG6YiU4v5XVNbe7h_QdVuP9WJhTweITgw/pub?start=false&loop=false&delayms=3000",
     "facts": [
       "Women and girls make rhythms by striking the water surface.",
       "Ostinato means a repeating musical pattern.",
@@ -956,7 +955,8 @@
     "communities": [
       "Baka"
     ],
-    "videoUrl": "https://www.youtube.com/watch?v=8QyK0q1Kr-A"
+    "videoUrl": "https://www.youtube.com/watch?v=8QyK0q1Kr-A",
+    "summary": "Liquindi is a Baka water-drumming tradition from Central Africa. Women and girls strike the water to make interlocking rhythms."
   },
   {
     "id": "song-g6w3a2v_50U",
@@ -972,8 +972,8 @@
       "BR"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vQaFrpu1yqdU43uC3sO6NlospzAB7omtMQqKVf2J3egvbX_mUo2_nvjqWGHdEx18WL52DLevc1aPiQb/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=g6w3a2v_50U"
+    "videoUrl": "https://www.youtube.com/watch?v=g6w3a2v_50U",
+    "summary": "“Desafinado” means “out of tune.” This bossa nova song playfully answers critics; listen for gentle guitar rhythms and jazz-influenced melody."
   },
   {
     "id": "song-kYf2k8474x0",
@@ -991,12 +991,12 @@
     "communities": [
       "Inuit"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vRYtCsPz1uxtEDWKPk737uLNODlRJGSj9vmvkLSmHeGp7KvHfEq-fVhiZ419SDwWKpMfIJMQCqls0Cz/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=kYf2k8474x0"
+    "videoUrl": "https://www.youtube.com/watch?v=kYf2k8474x0",
+    "summary": "Inuit throat singing often involves two performers exchanging short rhythmic sounds. Listen for breath, repetition, and playful interaction."
   },
   {
     "id": "song-f5iFFlXoEyw",
-    "title": "Dirrree",
+    "title": "Dirree",
     "artist": "Kemer Yousuf",
     "country": "Ethiopia",
     "countryCode": "ET",
@@ -1010,13 +1010,13 @@
     "communities": [
       "Oromo"
     ],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vQqzunGHwBlFAbi9Igax4v2XR6_-IN3wJhkCmoRDfnC40g9Q8rajaOUcz6vRAiFZXOmSrhIPX8p0fZY/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=f5iFFlXoEyw"
+    "videoUrl": "https://www.youtube.com/watch?v=f5iFFlXoEyw",
+    "summary": "Kemer Yousuf performs in Afaan Oromoo, a language spoken in Ethiopia. Listen for Oromo-language singing and contemporary sounds."
   },
   {
     "id": "song-r1nKhmhkOLU",
     "title": "Tjovane (the thieves)",
-    "artist": "",
+    "artist": "Spokanki",
     "country": "Norway",
     "countryCode": "NO",
     "language": "",
@@ -1027,13 +1027,13 @@
       "NO"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vSM-B2tFSHxIWMemp1nYGMmBv1cihP38EbtT9lY-fGsceEBP5XNy3xk8mPDFrPFfop6niHmQHfX1Oow/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=r1nKhmhkOLU"
+    "videoUrl": "https://www.youtube.com/watch?v=r1nKhmhkOLU",
+    "summary": "Spokanki performs “Tjovane,” a Norwegian story song about thieves, with layered voices, frame drums, and tambourine."
   },
   {
     "id": "song-KLJA-srM_yM",
     "title": "Nour El ain",
-    "artist": "",
+    "artist": "Amr Diab",
     "country": "Egypt",
     "countryCode": "EG",
     "language": "",
@@ -1044,7 +1044,7 @@
       "EG"
     ],
     "communities": [],
-    "source": "https://docs.google.com/presentation/d/e/2PACX-1vT1JPVudRzfTIj6k6r1DLTusGQwdtPYFJBr6dPOHTZNrDbxm4TbMCpEdfDgFnHIfo9axGa5L8WVPmPX/pub?start=false&loop=false&delayms=3000",
-    "videoUrl": "https://www.youtube.com/watch?v=KLJA-srM_yM"
+    "videoUrl": "https://www.youtube.com/watch?v=KLJA-srM_yM",
+    "summary": "Egyptian singer Amr Diab's “Nour El Ain” means “light of my eyes.” The Arabic pop song blends guitar and dance rhythms."
   }
 ]
