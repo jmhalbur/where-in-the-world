@@ -7,7 +7,6 @@
     "countryCode": "RU",
     "language": "Russian",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "RU"
@@ -30,7 +29,6 @@
     "countryCode": "GB",
     "language": "English",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "GB"
@@ -53,7 +51,6 @@
     "countryCode": "BY",
     "language": "Belarusian",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "BY"
@@ -76,7 +73,6 @@
     "countryCode": "LA",
     "language": "Hmong",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "LA"
@@ -102,7 +98,6 @@
     "countryCode": "TK",
     "language": "Gagana Tokelau",
     "style": "Contemporary Polynesian / Pacific fusion",
-    "visible": true,
     "facts": [],
     "countries": [
       "TK"
@@ -127,7 +122,6 @@
     "countryCode": "SO",
     "language": "Somali",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "SO"
@@ -150,7 +144,6 @@
     "countryCode": "CO",
     "language": "Spanish",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "CO"
@@ -173,7 +166,6 @@
     "countryCode": "ZA",
     "language": "isiZulu",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "ZA"
@@ -196,7 +188,6 @@
     "countryCode": "US",
     "language": "Apsáalooke (Crow)",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "US"
@@ -222,7 +213,6 @@
     "countryCode": "IL",
     "language": "Hebrew",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "IL"
@@ -249,7 +239,6 @@
     "countryCode": "CU",
     "language": "Spanish",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "CU"
@@ -272,7 +261,6 @@
     "countryCode": "JP",
     "language": "Japanese",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "JP"
@@ -295,7 +283,6 @@
     "countryCode": "SN",
     "language": "Mandinka",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "SN"
@@ -319,7 +306,6 @@
     "countryCode": "IN",
     "language": "Hindi (film song; Marathi term on slide)",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "IN"
@@ -343,7 +329,6 @@
     "countryCode": "NZ",
     "language": "Māori",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "NZ"
@@ -367,7 +352,6 @@
     "countryCode": "CL",
     "language": "Spanish",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "CL"
@@ -390,7 +374,6 @@
     "countryCode": "ET",
     "language": "Oromo (Afaan Oromoo)",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "ET"
@@ -416,7 +399,6 @@
     "countryCode": "GL",
     "language": "Kalaallisut (Greenlandic)",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "GL"
@@ -442,7 +424,6 @@
     "countryCode": "TH",
     "language": "Karen",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "TH"
@@ -468,7 +449,6 @@
     "countryCode": "KE",
     "language": "Swahili",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "KE"
@@ -491,7 +471,6 @@
     "countryCode": "SY",
     "language": "Arabic",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "SY"
@@ -514,7 +493,6 @@
     "countryCode": "BR",
     "language": "Portuguese",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "BR"
@@ -537,7 +515,6 @@
     "countryCode": "PH",
     "language": "Cebuano",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "PH"
@@ -561,7 +538,6 @@
     "countryCode": "PH",
     "language": "",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "PH"
@@ -578,7 +554,6 @@
     "countryCode": "US",
     "language": "English",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "US"
@@ -601,7 +576,6 @@
     "countryCode": "KH",
     "language": "Khmer",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "KH"
@@ -624,7 +598,6 @@
     "countryCode": "DE",
     "language": "German",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "DE"
@@ -647,7 +620,6 @@
     "countryCode": "SV",
     "language": "Spanish",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "SV"
@@ -670,7 +642,6 @@
     "countryCode": "US",
     "language": "English",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "US"
@@ -693,7 +664,6 @@
     "countryCode": "US",
     "language": "",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "US"
@@ -710,7 +680,6 @@
     "countryCode": "JM",
     "language": "English / Jamaican Patois",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "JM"
@@ -733,7 +702,6 @@
     "countryCode": "JM",
     "language": "",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "JM"
@@ -750,7 +718,6 @@
     "countryCode": "CM",
     "language": "Duala",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "CM"
@@ -774,7 +741,6 @@
     "countryCode": "VN",
     "language": "Vietnamese",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "VN"
@@ -797,7 +763,6 @@
     "countryCode": "EG",
     "language": "Arabic",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "EG"
@@ -820,7 +785,6 @@
     "countryCode": "VE",
     "language": "Spanish",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "VE"
@@ -843,7 +807,6 @@
     "countryCode": "ET",
     "language": "Amharic",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "ET"
@@ -868,7 +831,6 @@
     "countryCode": "ET",
     "language": "Afar",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "ET"
@@ -894,7 +856,6 @@
     "countryCode": "ET",
     "language": "",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "ET"
@@ -913,7 +874,6 @@
     "countryCode": "NI",
     "language": "Spanish",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "NI"
@@ -936,7 +896,6 @@
     "countryCode": "NP",
     "language": "Nepali",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "NP"
@@ -959,7 +918,6 @@
     "countryCode": "PK",
     "language": "Pashto",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "PK"
@@ -984,7 +942,6 @@
     "countryCode": "AU",
     "language": "Yolŋu Matha",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "AU"
@@ -1008,7 +965,6 @@
     "countryCode": "CO",
     "language": "Spanish",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "CO"
@@ -1031,7 +987,6 @@
     "countryCode": "BD",
     "language": "Bengali",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "BD"
@@ -1054,7 +1009,6 @@
     "countryCode": "CU",
     "language": "Spanish",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "CU"
@@ -1077,7 +1031,6 @@
     "countryCode": "IN",
     "language": "Hindi",
     "style": "Bollywood film song",
-    "visible": true,
     "facts": [
       "From the 1997 film Dil To Pagal Hai",
       "The title means ‘There Is a Girl.’",
@@ -1105,7 +1058,6 @@
     "countryCode": "CU",
     "language": "Spanish",
     "style": "Son montuno",
-    "visible": true,
     "facts": [
       "From the 1993 album Mi Tierra (‘My Homeland’).",
       "Written by Cuban musician Juanito Márquez.",
@@ -1133,7 +1085,6 @@
     "countryCode": "IE",
     "language": "Irish (Gaeilge)",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "IE"
@@ -1156,7 +1107,6 @@
     "countryCode": "PS",
     "language": "Arabic",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "PS"
@@ -1179,7 +1129,6 @@
     "countryCode": "FR",
     "language": "French",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "FR"
@@ -1202,7 +1151,6 @@
     "countryCode": "JP",
     "language": "Japanese",
     "style": "Modern taiko performance",
-    "visible": true,
     "facts": [
       "DRUM TAO is a taiko drumming group from Japan.",
       "Wadaiko are Japanese drums of different shapes and sizes.",
@@ -1230,7 +1178,6 @@
     "countryCode": "US",
     "language": "English",
     "style": "",
-    "visible": true,
     "facts": [
       "Video link needs correction: spreadsheet currently points to DRUM TAO."
     ],
@@ -1255,7 +1202,6 @@
     "countryCode": "CM",
     "language": "Baka",
     "style": "Water drumming",
-    "visible": true,
     "facts": [
       "Women and girls make rhythms by striking the water surface.",
       "Ostinato means a repeating musical pattern.",
@@ -1285,7 +1231,6 @@
     "countryCode": "BR",
     "language": "Portuguese",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "BR"
@@ -1308,7 +1253,6 @@
     "countryCode": "CA",
     "language": "Inuktitut",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "CA"
@@ -1334,7 +1278,6 @@
     "countryCode": "ET",
     "language": "Oromo (Afaan Oromoo)",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "ET"
@@ -1363,7 +1306,6 @@
     "countryCode": "NO",
     "language": "Norwegian",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "NO"
@@ -1386,7 +1328,6 @@
     "countryCode": "EG",
     "language": "Arabic",
     "style": "",
-    "visible": true,
     "facts": [],
     "countries": [
       "EG"
