@@ -90,7 +90,7 @@
       {
         "language": "Hmong",
         "word": "nkauj seev",
-        "note": "Song or singing-related expression."
+        "note": "A song- or singing-related expression, rather than a direct equivalent of the broad English word “music.”"
       }
     ]
   },
@@ -209,7 +209,8 @@
     "musicWords": [
       {
         "language": "Apsáalooke (Crow)",
-        "word": "baáhchaahuua"
+        "word": "baáhchaahuua",
+        "note": "Apsáalooke (Crow) term used for music in this collection; its precise meaning has not been independently verified."
       }
     ]
   },
@@ -306,7 +307,7 @@
       {
         "language": "Mandinka",
         "word": "denkiloo",
-        "note": "A song-related term rather than necessarily a general word for all music."
+        "note": "Means “song” or “singing,” rather than all kinds of music."
       }
     ]
   },
@@ -330,7 +331,7 @@
       {
         "language": "Marathi",
         "word": "संगीत",
-        "note": "The film song is in Hindi."
+        "note": "Means “music” in Marathi and Hindi; the film song is in Hindi."
       }
     ]
   },
@@ -353,7 +354,8 @@
     "musicWords": [
       {
         "language": "Māori",
-        "word": "waiata"
+        "word": "waiata",
+        "note": "Means “song” or “to sing.” Māori musical traditions include more than songs alone."
       }
     ]
   },
@@ -401,7 +403,8 @@
     "musicWords": [
       {
         "language": "Oromo (Afaan Oromoo)",
-        "word": "muuziqaa"
+        "word": "muuziqaa",
+        "note": "A word for music in Afaan Oromoo."
       }
     ]
   },
@@ -426,7 +429,8 @@
     "musicWords": [
       {
         "language": "Kalaallisut (Greenlandic)",
-        "word": "nipilersuut"
+        "word": "nipilersuut",
+        "note": "Means “musical instrument,” rather than music in general."
       }
     ]
   },
@@ -450,9 +454,9 @@
     "summary": "“Beautiful Karen” celebrates Karen communities in Myanmar, Thailand, and beyond. Debary and featured artists combine modern pop with Karen cultural expression.",
     "musicWords": [
       {
-        "language": "Karen",
+        "language": "Burmese (Myanmar)",
         "word": "သီချင်း",
-        "note": "Karen has multiple languages and writing systems."
+        "note": "Means “song” in Burmese. Karen refers to several distinct languages, so this should not be presented as a verified Karen-language translation."
       }
     ]
   },
@@ -545,7 +549,7 @@
       {
         "language": "Cebuano",
         "word": "musika",
-        "note": "The dance performance has no lyrics."
+        "note": "Means “music”; the dance performance itself has no sung lyrics."
       }
     ]
   },
@@ -758,7 +762,7 @@
       {
         "language": "Duala",
         "word": "makossa",
-        "note": "Makossa names a music and dance genre, not a general translation of 'music'."
+        "note": "Makossa is a Cameroonian dance and music style; the word is associated with “dance” in Duala, not a general word for music."
       }
     ]
   },
@@ -877,7 +881,8 @@
     "musicWords": [
       {
         "language": "Afar",
-        "word": "kanniy"
+        "word": "kanniy",
+        "note": "Afar term used for music in this collection; its precise range of meanings has not been independently verified."
       }
     ]
   },
@@ -991,7 +996,7 @@
       {
         "language": "Yolŋu Matha",
         "word": "manikay",
-        "note": "Manikay refers to a traditional song tradition, not all music."
+        "note": "Refers to Yolŋu ceremonial song cycles, which carry ancestral stories and connections to Country—not a general word for all music."
       }
     ]
   },
@@ -1268,7 +1273,7 @@
       {
         "language": "Baka",
         "word": "be",
-        "note": "Baka water drumming is instrumental."
+        "note": "Means “song” or “to sing” in documented Baka usage; Baka water drumming is instrumental."
       }
     ]
   },
@@ -1317,7 +1322,7 @@
       {
         "language": "Inuktitut",
         "word": "Nijjajut",
-        "note": "The performance features vocal sounds rather than ordinary lyrics."
+        "note": "Means “music” in Inuktitut. This performance uses vocal sounds rather than ordinary song lyrics."
       }
     ]
   },
