@@ -19,3 +19,11 @@
 - `countries` is a list of ISO alpha-2 codes; `communities` is a list of cultural/community labels. **Only add geographic connections that are accurate for that specific performance**, not all places where a broader culture exists.
 - The map uses Leaflet/OpenStreetMap and requires internet access.
 - The culture view currently uses tappable labels rather than approximate invented cultural borders.
+
+## YouTube video test (four songs)
+
+The following performances have YouTube links in `songs.json`: Montuno, DRUM TAO, Liquindi, and Koi Ladki Hai. On song detail pages and in Mystery Challenge, the site attempts to play YouTube in an embedded frame. A YouTube fallback link is always shown. Some videos may prohibit embedding or be restricted on school iPads.
+
+**Publish update:** Upload `index.html`, `app.js`, `style.css`, and `songs.json` to the **root** of the existing GitHub repository, replacing the same-named files. No new repository is needed. If your repository includes a `where-in-the-world` subfolder instead of these files at root, fix the placement first.
+
+**Mystery privacy:** YouTube player controls or opening the video on YouTube may expose titles and channel information. The website hides its own answer text until Reveal, but cannot conceal YouTube's metadata.
