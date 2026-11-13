@@ -73,18 +73,20 @@
     "id": "song-C8X9T2tV2Eg",
     "title": "We're Back",
     "artist": "Olivia Foa'i, Sulata Foai-Amiatu, Te Vaka",
-    "country": "Polynesia (regional)",
-    "countryCode": "",
-    "language": "",
-    "style": "",
+    "country": "Tokelau (Polynesia)",
+    "countryCode": "TK",
+    "language": "Gagana Tokelau",
+    "style": "Contemporary Polynesian / Pacific fusion",
     "visible": true,
     "facts": [],
-    "countries": [],
+    "countries": [
+      "TK"
+    ],
     "communities": [
       "Polynesian"
     ],
     "videoUrl": "https://www.youtube.com/watch?v=C8X9T2tV2Eg",
-    "summary": "Te Vaka blends contemporary music with Pacific Island traditions. Listen for voices and the powerful rhythms of wooden log drums."
+    "summary": "“We're Back,” from Moana 2, is performed by Olivia Foa'i, Sulata Foai-Amiatu, and Te Vaka. Sung in Gagana Tokelau, the song draws on Polynesian music and the powerful rhythms of wooden log drums. The video was filmed in Aotearoa New Zealand and Hawaiʻi and celebrates Polynesian voyaging and connections across the Pacific. Tokelau is the cultural map marker, not the filming location."
   },
   {
     "id": "song-TFfwM7T4pl4",
