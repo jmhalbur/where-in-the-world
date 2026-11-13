@@ -27,3 +27,18 @@ The following performances have YouTube links in `songs.json`: Montuno, DRUM TAO
 **Publish update:** Upload `index.html`, `app.js`, `style.css`, and `songs.json` to the **root** of the existing GitHub repository, replacing the same-named files. No new repository is needed. If your repository includes a `where-in-the-world` subfolder instead of these files at root, fix the placement first.
 
 **Mystery privacy:** YouTube player controls or opening the video on YouTube may expose titles and channel information. The website hides its own answer text until Reveal, but cannot conceal YouTube's metadata.
+
+
+## Spreadsheet catalog import (November 2026)
+
+The library includes the performances listed in the teacher-provided Google Sheet. School years and reference numbers are omitted. Published Google Slides URLs are used for the presentation links. The Finess entry is hidden pending correction of a duplicate DRUM TAO YouTube URL. Some presentations are shared by more than one row; review the links before classroom use. Community labels are preserved where identified.
+
+
+## Updated explorer layout
+- World map with region buttons, one numbered marker per location, and a breadcrumb trail.
+- Song collections show compact YouTube thumbnail/title/artist rows.
+- Landscape iPad: side panel; portrait iPad: panel below map.
+- The Ethiopia panel groups music by its available language/community metadata.
+- Music Library, Mystery Music, and teacher visibility controls remain available.
+- The Finess video link was corrected from the updated spreadsheet.
+- YouTube thumbnails require internet access; the site uses standard YouTube thumbnail images.
