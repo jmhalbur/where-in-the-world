@@ -1,7 +1,7 @@
 [
   {
     "id": "song-CqwrwwOzVcQ",
-    "title": "STORM",
+    "title": "Storm",
     "artist": "OTYKEN",
     "country": "Russia",
     "countryCode": "RU",
@@ -24,7 +24,7 @@
   },
   {
     "id": "song-C-A0IAVWuy4",
-    "title": "Sumer is icumen in",
+    "title": "Sumer Is Icumen In (Summer Has Arrived)",
     "artist": "Duo Medieval",
     "country": "United Kingdom",
     "countryCode": "GB",
@@ -47,7 +47,7 @@
   },
   {
     "id": "song-04fEWQOwUD4",
-    "title": "Sztoj pa moru (Што й па мору)",
+    "title": "Sztoj pa moru (Што й па мору – Out There on the Sea)",
     "artist": "Laboratorium Pieśni",
     "country": "Belarus",
     "countryCode": "BY",
@@ -70,7 +70,7 @@
   },
   {
     "id": "song-FEuuBokjVRk",
-    "title": "Ib Ob Peb, Los Seev Cev",
+    "title": "Ib Ob Peb, Los Seev Cev (One, Two, Three, Let's Dance)",
     "artist": "Douachi Yang",
     "country": "Laos",
     "countryCode": "LA",
@@ -96,8 +96,8 @@
   },
   {
     "id": "song-C8X9T2tV2Eg",
-    "title": "We're Back",
-    "artist": "Olivia Foa'i, Sulata Foai-Amiatu, Te Vaka",
+    "title": "We're Back (Te Vaka Version)",
+    "artist": "Olivia Foa‘i, Sulata Foai-Amiatu & Te Vaka",
     "country": "Tokelau (Polynesia)",
     "countryCode": "TK",
     "language": "Gagana Tokelau",
@@ -121,7 +121,7 @@
   },
   {
     "id": "song-TFfwM7T4pl4",
-    "title": "Arday Baan Ahayoo",
+    "title": "Arday Baan Ahayoo (We Are Students)",
     "artist": "Astaan Ubad",
     "country": "Somalia",
     "countryCode": "SO",
@@ -144,7 +144,7 @@
   },
   {
     "id": "song-9DesJBgMUJA",
-    "title": "LA BATUCADA MAS GRANDE DEL MUNDO",
+    "title": "La Batucada Más Grande del Mundo (The World's Largest Batucada)",
     "artist": "AAINJAA",
     "country": "Colombia",
     "countryCode": "CO",
@@ -190,7 +190,7 @@
   },
   {
     "id": "song-OiVU-W9VT7Q",
-    "title": "Supaman",
+    "title": "Why",
     "artist": "Supaman",
     "country": "United States",
     "countryCode": "US",
@@ -266,8 +266,8 @@
   },
   {
     "id": "song-JDTp_YQizqE",
-    "title": "Sakura",
-    "artist": "Kasumi Watanabe",
+    "title": "さくら (Sakura – Cherry Blossoms)",
+    "artist": "渡邊香澄 (Kasumi Watanabe)",
     "country": "Japan",
     "countryCode": "JP",
     "language": "Japanese",
@@ -289,8 +289,8 @@
   },
   {
     "id": "song-kZHfmgIb4mc",
-    "title": "Jalikunda African Drums",
-    "artist": "Jalikunda",
+    "title": "Jalikunda African Drums (Live Performance)",
+    "artist": "Jalikunda African Drums",
     "country": "Senegal",
     "countryCode": "SN",
     "language": "Mandinka",
@@ -314,7 +314,7 @@
   {
     "id": "song-l_MyUGq7pgs",
     "title": "Malhari",
-    "artist": "Bajirao Mastani",
+    "artist": "Vishal Dadlani (from Bajirao Mastani)",
     "country": "India",
     "countryCode": "IN",
     "language": "Hindi (film song; Marathi term on slide)",
@@ -337,7 +337,7 @@
   },
   {
     "id": "song-t4CAjr4Pr_0",
-    "title": "Aku Mahi",
+    "title": "Aku Mahi (My Work)",
     "artist": "Kōhine Pōnika",
     "country": "New Zealand",
     "countryCode": "NZ",
@@ -361,8 +361,8 @@
   },
   {
     "id": "song-wlfAf2AibA8",
-    "title": "El Derecho de Vivir en Paz",
-    "artist": "",
+    "title": "El Derecho de Vivir en Paz (The Right to Live in Peace)",
+    "artist": "Víctor Jara",
     "country": "Chile",
     "countryCode": "CL",
     "language": "Spanish",
@@ -384,7 +384,7 @@
   },
   {
     "id": "song-8Z8iniXjS5A",
-    "title": "WARRA BOOLEE",
+    "title": "Warra Boolee",
     "artist": "Sona Takele",
     "country": "Ethiopia",
     "countryCode": "ET",
@@ -410,8 +410,8 @@
   },
   {
     "id": "song-g38lIZMn99c",
-    "title": "ARE YOU READY",
-    "artist": "NIVE & THE DEER CHILDREN",
+    "title": "Are You Ready",
+    "artist": "Nive & the Deer Children",
     "country": "Greenland",
     "countryCode": "GL",
     "language": "Kalaallisut (Greenlandic)",
@@ -436,8 +436,8 @@
   },
   {
     "id": "song-XFFsuhC1lKw",
-    "title": "Beautiful Karen (กะเหรี่ยง)",
-    "artist": "Debary ft Toh Pah Doh, Bee Yang & Sa Kaw",
+    "title": "Beautiful Karen (กะเหรี่ยง – Karen People)",
+    "artist": "Debary feat. Toh Pah Doh, Bee Yang & Sa Kaw",
     "country": "Thailand",
     "countryCode": "TH",
     "language": "Karen",
@@ -462,8 +462,8 @@
   },
   {
     "id": "song-DxcVa4xHtZo",
-    "title": "HAKUNA MATATA (JAMBO BWANA)",
-    "artist": "MSANII MUSIC GROUP",
+    "title": "Hakuna Matata (Jambo Bwana – Hello, Sir)",
+    "artist": "Msanii Music Group",
     "country": "Kenya",
     "countryCode": "KE",
     "language": "Swahili",
@@ -485,8 +485,8 @@
   },
   {
     "id": "song-c9sh-FsXC2w",
-    "title": "فرقة تكات- يما ويا يابي - بتوزيع جديد - اغاني عراقية سورية تراثية",
-    "artist": "",
+    "title": "يما ويا يابي (Yamma W Ya Yabi – Oh, My Mother and Father)",
+    "artist": "فرقة تكات (Takat Band)",
     "country": "Syria",
     "countryCode": "SY",
     "language": "Arabic",
@@ -508,7 +508,7 @@
   },
   {
     "id": "song-fWH_AQQi_5I",
-    "title": "É Proibido Cochilar",
+    "title": "É Proibido Cochilar (Sleeping Is Forbidden)",
     "artist": "Mari Campolongo",
     "country": "Brazil",
     "countryCode": "BR",
@@ -531,8 +531,8 @@
   },
   {
     "id": "song-_WLfqDMwA_o",
-    "title": "2017 UCLA PCN Filipino Tinikling",
-    "artist": "",
+    "title": "Tinikling (Traditional Filipino Bamboo Dance)",
+    "artist": "UCLA Samahang Pilipino",
     "country": "Philippines",
     "countryCode": "PH",
     "language": "Cebuano",
@@ -555,7 +555,7 @@
   },
   {
     "id": "song-QqnbJWyydqs",
-    "title": "Hip-hop tinikling",
+    "title": "Hip-Hop Tinikling (Modern Filipino Bamboo Dance)",
     "artist": "",
     "country": "Philippines",
     "countryCode": "PH",
@@ -595,7 +595,7 @@
   },
   {
     "id": "song-1KJGBhCEBiw",
-    "title": "ព្រោះតែអូន",
+    "title": "ព្រោះតែអូន (Because of You)",
     "artist": "Vann Lida (Sinn Sisamouth cover)",
     "country": "Cambodia",
     "countryCode": "KH",
@@ -618,7 +618,7 @@
   },
   {
     "id": "song-m4C58lmv1J4",
-    "title": "(Awolnation Rework)",
+    "title": "Sail (AWOLNATION Rework)",
     "artist": "MEUTE",
     "country": "Germany",
     "countryCode": "DE",
@@ -641,7 +641,7 @@
   },
   {
     "id": "song-1GBG77e-9hc",
-    "title": "Carnaval de mi tierra",
+    "title": "Carnaval de Mi Tierra (Carnival of My Homeland)",
     "artist": "Los Hermanos Lovo",
     "country": "El Salvador",
     "countryCode": "SV",
@@ -664,7 +664,7 @@
   },
   {
     "id": "song-Z5NoQg8LdDk",
-    "title": "Playing God (Official Music Video)",
+    "title": "Playing God",
     "artist": "Polyphia",
     "country": "United States",
     "countryCode": "US",
@@ -688,7 +688,7 @@
   {
     "id": "song-FGM3U3buQj0",
     "title": "Classical Dragon",
-    "artist": "Tim Henson, Marcin",
+    "artist": "Marcin feat. Tim Henson",
     "country": "United States",
     "countryCode": "US",
     "language": "",
@@ -727,8 +727,8 @@
   },
   {
     "id": "song-IhQEBAl3Gpk",
-    "title": "Get Up Stand Up",
-    "artist": "Bob Marley",
+    "title": "Get Up, Stand Up",
+    "artist": "Bob Marley & The Wailers",
     "country": "Jamaica",
     "countryCode": "JM",
     "language": "",
@@ -744,8 +744,8 @@
   },
   {
     "id": "song-ny78BCBir2Q",
-    "title": "SOUL MAKOSSA",
-    "artist": "MANU DIBANGO",
+    "title": "Soul Makossa",
+    "artist": "Manu Dibango",
     "country": "Cameroon",
     "countryCode": "CM",
     "language": "Duala",
@@ -768,7 +768,7 @@
   },
   {
     "id": "song-H-zLnfJR78A",
-    "title": "Con Gái Miền Tây",
+    "title": "Con Gái Miền Tây (Girl from the Mekong Delta)",
     "artist": "Lương Khánh Vy",
     "country": "Vietnam",
     "countryCode": "VN",
@@ -791,8 +791,8 @@
   },
   {
     "id": "song-Awfm6YHyUk0",
-    "title": "G.oka - Ana Msh Faker El Kobleh",
-    "artist": "G.oka",
+    "title": "أنا مش فاكر الكوبليه (Ana Msh Faker El Kobleh – I Can't Remember the Verse)",
+    "artist": "جنرال أوكا (G.oka)",
     "country": "Egypt",
     "countryCode": "EG",
     "language": "Arabic",
@@ -814,7 +814,7 @@
   },
   {
     "id": "song-4LCWsb_QaPc",
-    "title": "Los que se quedan, los que se van",
+    "title": "Los que se quedan, los que se van (Those Who Stay, Those Who Leave)",
     "artist": "Desorden Público",
     "country": "Venezuela",
     "countryCode": "VE",
@@ -837,7 +837,7 @@
   },
   {
     "id": "song-PsfVYQ8zd4M",
-    "title": "Yene Habesha (የኔ አበሻ)",
+    "title": "የኔ አበሻ (Yene Habesha – My Habesha)",
     "artist": "Abby Lakew",
     "country": "Ethiopia",
     "countryCode": "ET",
@@ -888,7 +888,7 @@
   },
   {
     "id": "song-iJRUeneG7pg",
-    "title": "Weni (ወኒ)",
+    "title": "ወኒ (Weni)",
     "artist": "Timnit Welday",
     "country": "Ethiopia",
     "countryCode": "ET",
@@ -907,7 +907,7 @@
   },
   {
     "id": "song-KweOg8P1Dlw",
-    "title": "Vuelvo",
+    "title": "Vuelvo (I'm Coming Back)",
     "artist": "Phillip Montalvan",
     "country": "Nicaragua",
     "countryCode": "NI",
@@ -930,8 +930,8 @@
   },
   {
     "id": "song-cwbMyAIqZ4E",
-    "title": "Dashain Aayo",
-    "artist": "Prabin Bajracharya, Praanjal Bajracharya, Ramita Ahdikari",
+    "title": "Dashain Aayo (Dashain Has Arrived)",
+    "artist": "Prabin Bajracharya, Praanjal Bajracharya & Ramita Adhikari",
     "country": "Nepal",
     "countryCode": "NP",
     "language": "Nepali",
@@ -953,8 +953,8 @@
   },
   {
     "id": "song-lh6Ltp5Ew9k",
-    "title": "Larsha Pekhawar",
-    "artist": "Ali Zafar ft. Gul Panra & Fortitude Pukhtoon Core",
+    "title": "Larsha Pekhawar (Go to Peshawar)",
+    "artist": "Ali Zafar feat. Gul Panra & Fortitude Pukhtoon Core",
     "country": "Pakistan",
     "countryCode": "PK",
     "language": "Pashto",
@@ -978,8 +978,8 @@
   },
   {
     "id": "song-dxjFNvwZUhA",
-    "title": "Marryuna",
-    "artist": "Baker Boy",
+    "title": "Marryuna (Dancing)",
+    "artist": "Baker Boy feat. Yirrmal",
     "country": "Australia",
     "countryCode": "AU",
     "language": "Yolŋu Matha",
@@ -1002,7 +1002,7 @@
   },
   {
     "id": "song-a1ozTSkE27U",
-    "title": "Bugambilia",
+    "title": "Bugambilia (Bougainvillea)",
     "artist": "Nasa Histoires",
     "country": "Colombia",
     "countryCode": "CO",
@@ -1026,7 +1026,7 @@
   {
     "id": "song-O8yq399dsyk",
     "title": "Deora",
-    "artist": "Pritom Hasan",
+    "artist": "Pritom Hasan, Fazlu Majhi, Palakar & Ghaashphoring Choir (Coke Studio Bangla)",
     "country": "Bangladesh",
     "countryCode": "BD",
     "language": "Bengali",
@@ -1048,7 +1048,7 @@
   },
   {
     "id": "song-NJZW8U9bbmM",
-    "title": "Oye Como Va",
+    "title": "Oye Cómo Va (Listen to How It Goes)",
     "artist": "Playing for Change",
     "country": "Cuba",
     "countryCode": "CU",
@@ -1071,8 +1071,8 @@
   },
   {
     "id": "koi-ladki-hai",
-    "title": "Koi Ladki Hai",
-    "artist": "Lata Mangeshkar and Udit Narayan (playback singers)",
+    "title": "Koi Ladki Hai (There Is a Girl)",
+    "artist": "Lata Mangeshkar & Udit Narayan (from Dil To Pagal Hai)",
     "country": "India",
     "countryCode": "IN",
     "language": "Hindi",
@@ -1127,7 +1127,7 @@
   },
   {
     "id": "song-Ddg5TzR-wbk",
-    "title": "Dúlaman",
+    "title": "Dúlaman (Seaweed)",
     "artist": "Celtic Woman (Lisa Lambe)",
     "country": "Ireland",
     "countryCode": "IE",
@@ -1150,7 +1150,7 @@
   },
   {
     "id": "song-getnHpYUxoM",
-    "title": "Maskara",
+    "title": "Maskara (مسكرة)",
     "artist": "Saint Levant & Mohammed Assaf",
     "country": "Palestine",
     "countryCode": "PS",
@@ -1196,7 +1196,7 @@
   },
   {
     "id": "drum-tao",
-    "title": "DRUM TAO",
+    "title": "Taiko Drumming Performance (The Late Show with Stephen Colbert)",
     "artist": "DRUM TAO",
     "country": "Japan",
     "countryCode": "JP",
@@ -1249,8 +1249,8 @@
   },
   {
     "id": "liquindi",
-    "title": "Liquindi",
-    "artist": "Baka water drummers",
+    "title": "Liquindi (Baka Water Drumming)",
+    "artist": "Baka Performers",
     "country": "Cameroon",
     "countryCode": "CM",
     "language": "Baka",
@@ -1279,7 +1279,7 @@
   },
   {
     "id": "song-g6w3a2v_50U",
-    "title": "Desafinado",
+    "title": "Desafinado (Out of Tune)",
     "artist": "João Gilberto",
     "country": "Brazil",
     "countryCode": "BR",
@@ -1302,7 +1302,7 @@
   },
   {
     "id": "song-kYf2k8474x0",
-    "title": "Love Song",
+    "title": "Love Song (Inuit Throat Singing)",
     "artist": "",
     "country": "Canada",
     "countryCode": "CA",
@@ -1328,7 +1328,7 @@
   },
   {
     "id": "song-f5iFFlXoEyw",
-    "title": "Dirree",
+    "title": "Dirree (Dire Dawa)",
     "artist": "Kemer Yousuf",
     "country": "Ethiopia",
     "countryCode": "ET",
@@ -1357,7 +1357,7 @@
   },
   {
     "id": "song-r1nKhmhkOLU",
-    "title": "Tjovane (the thieves)",
+    "title": "Tjovane (The Thieves)",
     "artist": "Spokanki",
     "country": "Norway",
     "countryCode": "NO",
@@ -1380,7 +1380,7 @@
   },
   {
     "id": "song-KLJA-srM_yM",
-    "title": "Nour El ain",
+    "title": "Nour El Ain (نور العين – Light of My Eyes)",
     "artist": "Amr Diab",
     "country": "Egypt",
     "countryCode": "EG",
