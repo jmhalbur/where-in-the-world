@@ -81,24 +81,24 @@
     "id": "song-FEuuBokjVRk",
     "title": "Ib Ob Peb, Los Seev Cev (One, Two, Three, Let's Dance)",
     "artist": "Douachi Yang",
-    "country": "Laos",
-    "countryCode": "LA",
+    "country": "United States",
+    "countryCode": "US",
     "language": "Hmong",
-    "style": "",
+    "style": "Contemporary Hmong dance-pop",
     "facts": [],
     "countries": [
-      "LA"
+      "US"
     ],
     "communities": [
-      "Hmong"
+      "Hmong",
+      "Hmong American"
     ],
     "videoUrl": "",
-    "summary": "Douachi Yang is a Hmong American singer and songwriter from Saint Paul. Her music connects with Hmong language and community.",
+    "summary": "Hmong American singer and songwriter Douachi Yang performs an upbeat Hmong-language dance song. The title means “One, Two, Three, Let’s Dance!” A steady dance beat, repeated rhythms, and contemporary pop sounds support a choreographed group line dance that viewers can learn. The music video was filmed in Minnesota, including at Lyndale Rose Garden in Minneapolis. The performance connects Hmong language and cultural identity with contemporary music and community dancing in the United States.",
     "musicWords": [
       {
         "language": "Hmong",
-        "word": "nkauj seev",
-        "note": "A song- or singing-related expression, rather than a direct equivalent of the broad English word “music.”"
+        "word": "suab paj nruag"
       }
     ],
     "thumbnailVideoId": "FEuuBokjVRk",
