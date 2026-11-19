@@ -299,14 +299,16 @@
     "country": "Japan",
     "countryCode": "JP",
     "language": "Japanese",
-    "style": "",
+    "style": "Traditional Japanese folk song / Contemporary koto arrangement",
     "facts": [],
     "countries": [
       "JP"
     ],
-    "communities": [],
+    "communities": [
+      "Japanese"
+    ],
     "videoUrl": "",
-    "summary": "“Sakura” is a Japanese song about cherry blossoms. Kasumi Watanabe performs on a 25-string koto, a traditional plucked-string instrument.",
+    "summary": "“Sakura Sakura” is a well-known Japanese song celebrating cherry blossoms in spring. Originally used to teach koto, it appeared in a music collection in 1888. Kasumi Watanabe performs her own arrangement on a modern 25-string koto, blending a traditional melody with expressive plucked-string sounds.",
     "musicWords": [
       {
         "language": "Japanese",
