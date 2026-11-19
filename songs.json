@@ -16,7 +16,12 @@
     ],
     "videoUrl": "",
     "summary": "OTYKEN brings together Indigenous musical traditions from Siberia with modern rock and electronic sounds. “Storm” is reported to feature lyrics in Khakas, an Indigenous Turkic language spoken in Siberia. Listen for jaw harp, traditional string instruments, drums, and throat-singing techniques.",
-    "musicWords": [],
+    "musicWords": [
+      {
+        "language": "Khakas (Khakass)",
+        "word": "кӧг"
+      }
+    ],
     "driveVideoId": "1P8KbpJ-qvfmjSW68xLrPb3Ds1GKLL8jv",
     "thumbnailVideoId": "CqwrwwOzVcQ"
   },
