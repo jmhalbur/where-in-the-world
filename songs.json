@@ -466,7 +466,12 @@
     ],
     "videoUrl": "",
     "summary": "“Beautiful Karen” celebrates Karen communities in Myanmar, Thailand, and beyond. Debary and featured artists combine modern pop with Karen cultural expression.",
-    "musicWords": [],
+    "musicWords": [
+      {
+        "language": "S'gaw Karen",
+        "word": "တၢ်သူၣ်ဝံၣ်သးဆၢ"
+      }
+    ],
     "thumbnailVideoId": "XFFsuhC1lKw",
     "driveVideoId": "1W1X1EitiKc_x7m0gWr_Wo1aODLbNceMS"
   },
