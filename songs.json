@@ -132,19 +132,21 @@
   },
   {
     "id": "song-TFfwM7T4pl4",
-    "title": "Arday Baan Ahayoo (We Are Students)",
+    "title": "Arday Baan Ahayoo (I Am a Student)",
     "artist": "Astaan Ubad",
     "country": "Somalia",
     "countryCode": "SO",
     "language": "Somali",
-    "style": "",
+    "style": "Somali children's song / Educational song",
     "facts": [],
     "countries": [
       "SO"
     ],
-    "communities": [],
+    "communities": [
+      "Somali"
+    ],
     "videoUrl": "",
-    "summary": "“Arday Baan Ahayoo” means “I am a student.” This Somali children's song from Astaan Ubad celebrates learning and school.",
+    "summary": "“Arday Baan Ahayoo” means “I Am a Student.” This well-known Somali school song dates back to the 1960s. Written by Cismaan Askari, with music by Saalax Qaasim, it encourages children to work hard in school, respect their parents, and help their communities. The lyrics describe students as the “flowers of the country” and the “light of the morning.” The song became popular through performances and radio broadcasts in Somalia. This version was released in 2024 by Astaan Ubad, a Somali organization that creates educational entertainment for children.",
     "musicWords": [
       {
         "language": "Somali",
