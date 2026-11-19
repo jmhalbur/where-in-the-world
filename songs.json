@@ -237,15 +237,18 @@
     "artist": "Koolulam",
     "country": "Israel",
     "countryCode": "IL",
-    "language": "Hebrew",
-    "style": "",
+    "language": "Hebrew, Arabic, and English",
+    "style": "Contemporary choral pop / Community singing",
     "facts": [],
     "countries": [
       "IL"
     ],
-    "communities": [],
+    "communities": [
+      "Jewish and Arab communities in Israel",
+      "Participants from diverse religious and nonreligious backgrounds"
+    ],
     "videoUrl": "",
-    "summary": "Koolulam brings people together through group singing. This version of Matisyahu's “One Day” celebrates music as a way to connect.",
+    "summary": "Koolulam is an Israeli community-singing project that brings people from different backgrounds together through music. In February 2018, approximately 3,000 people gathered in Haifa, Israel, to perform “One Day,” originally recorded by American musician Matisyahu. Participants sang in three languages: Hebrew, Arabic, and English. Hebrew and Arabic are important languages spoken by communities in Israel, while English connects the performance to the original song. Singing in all three languages shares a message of peace, hope, and understanding across communities. The video also features sign language interpreter Chen Hayat, making the song’s message accessible to more people. The performance combines choral harmonies and contemporary pop music. Listen for the changes between languages, different vocal parts, and the sound of thousands of voices singing together.",
     "musicWords": [
       {
         "language": "Hebrew",
@@ -254,6 +257,10 @@
       {
         "language": "Arabic",
         "word": "موسيقى"
+      },
+      {
+        "language": "English",
+        "word": "music"
       }
     ],
     "thumbnailVideoId": "XqvKDCP5-xE",
