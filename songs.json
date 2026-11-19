@@ -31,15 +31,17 @@
     "artist": "Duo Medieval",
     "country": "United Kingdom",
     "countryCode": "GB",
-    "language": "English",
-    "style": "",
+    "language": "Middle English",
+    "style": "Medieval English round / canon",
     "facts": [],
     "countries": [
       "GB"
     ],
-    "communities": [],
+    "communities": [
+      "Medieval England"
+    ],
     "videoUrl": "",
-    "summary": "This medieval English round dates to the 1200s. Its overlapping voices celebrate the arrival of summer.",
+    "summary": "“Sumer Is Icumen In” is a medieval English round from the 1200s, written in Middle English. It is one of the earliest surviving examples of music for six voices: four voices enter with the same melody at different times, while two lower voices repeat a musical pattern. The lyrics celebrate summer with growing plants, blooming meadows, lambs, cows, and the cuckoo’s call. The song survives in a manuscript associated with Reading Abbey in England.",
     "musicWords": [
       {
         "language": "English",
