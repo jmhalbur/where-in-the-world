@@ -329,7 +329,7 @@
     "artist": "Vishal Dadlani (from Bajirao Mastani)",
     "country": "India",
     "countryCode": "IN",
-    "language": "Hindi (film song; Marathi term on slide)",
+    "language": "Hindi and Marathi",
     "style": "",
     "facts": [],
     "countries": [
@@ -340,9 +340,9 @@
     "summary": "“Malhari” is a Bollywood song-and-dance performance from the Hindi film Bajirao Mastani. Notice the combination of music, choreography, and storytelling.",
     "musicWords": [
       {
-        "language": "Marathi",
-        "word": "संगीत",
-        "note": "Means “music” in Marathi and Hindi; the film song is in Hindi."
+        "language": "Hindi and Marathi",
+        "word": "संगीत (sangīt)",
+        "note": "Means “music” in both Hindi and Marathi."
       }
     ],
     "thumbnailVideoId": "l_MyUGq7pgs",
