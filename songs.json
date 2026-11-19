@@ -908,7 +908,13 @@
     ],
     "videoUrl": "",
     "summary": "Afrikaan Ali shares music connected with the Afar people of Ethiopia and nearby countries. Listen for rhythmic clapping and singing.",
-    "musicWords": [],
+    "musicWords": [
+      {
+        "language": "Afar",
+        "word": "gada",
+        "note": "Means “song” in Afar, rather than music in general."
+      }
+    ],
     "thumbnailVideoId": "hlVejMUzDqQ",
     "driveVideoId": "1LWl9bGTmRkKnWw8Kboq1dpZcW_BBNm2M"
   },
