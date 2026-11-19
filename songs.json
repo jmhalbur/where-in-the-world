@@ -924,19 +924,25 @@
     "artist": "Timnit Welday",
     "country": "Ethiopia",
     "countryCode": "ET",
-    "language": "",
-    "style": "",
+    "language": "Tigrinya (Tigrigna)",
+    "style": "Contemporary Tigrinya popular music",
     "facts": [],
     "countries": [
       "ET"
     ],
     "communities": [
-      "Afar"
+      "Tigrinya-speaking communities"
     ],
     "videoUrl": "",
-    "summary": "Timnit Welday's music connects with Tigrinya-speaking communities of the Horn of Africa. Notice how the singing and dancing fit the beat.",
+    "summary": "“Weni” is a 2018 Tigrinya-language music video by Ethiopian singer Timnit Welday. Listen for the vocal melody, steady rhythmic accompaniment, and the relationship between the singing and dancing.",
     "thumbnailVideoId": "iJRUeneG7pg",
-    "driveVideoId": "1xtpa1waaOYYMgRuaBOIcxPRyANE0e47w"
+    "driveVideoId": "1xtpa1waaOYYMgRuaBOIcxPRyANE0e47w",
+    "musicWords": [
+      {
+        "language": "Tigrinya",
+        "word": "ሙዚቃ"
+      }
+    ]
   },
   {
     "id": "song-KweOg8P1Dlw",
