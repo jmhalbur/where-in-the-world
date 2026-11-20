@@ -325,14 +325,17 @@
     "country": "Senegal",
     "countryCode": "SN",
     "language": "Mandinka",
-    "style": "",
+    "style": "Senegalese drumming / West African traditional music",
     "facts": [],
     "countries": [
       "SN"
     ],
-    "communities": [],
+    "communities": [
+      "Mandinka",
+      "Other Senegalese communities"
+    ],
     "videoUrl": "",
-    "summary": "Jalikunda shares West African drumming and storytelling traditions. Griots are musicians who help preserve community history through song.",
+    "summary": "Jalikunda African Drums shares Senegalese drumming and dance traditions. The musicians use drums such as the djembe to create interlocking rhythms—different patterns that fit together. West African jali (griots) help preserve community histories and stories through music.",
     "musicWords": [
       {
         "language": "Mandinka",
