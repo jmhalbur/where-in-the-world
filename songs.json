@@ -435,7 +435,7 @@
     "country": "Ethiopia",
     "countryCode": "ET",
     "language": "Oromo (Afaan Oromoo)",
-    "style": "",
+    "style": "Contemporary Oromo pop / Ethiopian popular music",
     "facts": [],
     "countries": [
       "ET"
@@ -444,7 +444,7 @@
       "Oromo"
     ],
     "videoUrl": "",
-    "summary": "Sona Takele sings in Afaan Oromoo, an Ethiopian language. “Warra Boolee” blends modern pop with Oromo musical influences.",
+    "summary": "“Warra Boolee” is a contemporary Oromo pop song by Ethiopian singer Sona Takele. Sung in Afaan Oromoo, the song represents the modern popular music of Ethiopia's Oromo communities, combining contemporary production with Oromo-language singing and cultural expression.",
     "musicWords": [
       {
         "language": "Oromo (Afaan Oromoo)",
@@ -460,17 +460,17 @@
     "artist": "Nive & the Deer Children",
     "country": "Greenland",
     "countryCode": "GL",
-    "language": "Kalaallisut (Greenlandic)",
-    "style": "",
+    "language": "English",
+    "style": "Indie folk-pop / Americana",
     "facts": [],
     "countries": [
       "GL"
     ],
     "communities": [
-      "Kalaallit / Greenlandic"
+      "Kalaallit (Greenlandic Inuit)"
     ],
     "videoUrl": "",
-    "summary": "Nive Nielsen is an Inuk singer from Greenland who often plays a small red ukulele. This video was filmed during a very cold winter in Uummannaq.",
+    "summary": "Nive Nielsen is an Inuit singer-songwriter from Greenland who plays indie folk-pop with her band, the Deer Children. The video for “Are You Ready” was filmed in Uummannaq during the coldest winter in 30 years, with temperatures reaching −37°C (−35°F). Nive and local children turned an old building once used for blubber into an indoor ice-skating rink. Despite holes in the walls and no insulation, the ice lasted until June!",
     "musicWords": [
       {
         "language": "Kalaallisut (Greenlandic)",
@@ -487,7 +487,7 @@
     "country": "Thailand",
     "countryCode": "TH",
     "language": "Karen",
-    "style": "",
+    "style": "Contemporary Karen pop",
     "facts": [],
     "countries": [
       "TH"
@@ -496,7 +496,7 @@
       "Karen"
     ],
     "videoUrl": "",
-    "summary": "“Beautiful Karen” celebrates Karen communities in Myanmar, Thailand, and beyond. Debary and featured artists combine modern pop with Karen cultural expression.",
+    "summary": "“Beautiful Karen” celebrates Karen cultural identity and pride. Debary joins Toh Pah Doh, Bee Yang, and Sa Kaw in a contemporary pop performance featuring Karen language and cultural expression. Karen communities live in Myanmar, Thailand, and around the world, with several distinct languages and traditions.",
     "musicWords": [
       {
         "language": "S'gaw Karen",
