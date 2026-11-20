@@ -12,7 +12,8 @@
       "RU"
     ],
     "communities": [
-      "Indigenous Siberian communities, including Khakas and Chulym"
+      "Khakas",
+      "Chulym"
     ],
     "videoUrl": "",
     "summary": "OTYKEN combines Indigenous Siberian musical traditions with modern rock and electronic sounds. “Storm” features lyrics reported to be in Khakas, a language spoken in Siberia. Listen for jaw harp, string instruments, drums, and throat singing.",
@@ -90,7 +91,6 @@
       "US"
     ],
     "communities": [
-      "Hmong",
       "Hmong American"
     ],
     "videoUrl": "",
@@ -168,7 +168,9 @@
     "countries": [
       "CO"
     ],
-    "communities": [],
+    "communities": [
+      "Colombian"
+    ],
     "videoUrl": "",
     "summary": "Colombian group AAINJAA performs batucada, an energetic drumming style rooted in Afro-Brazilian samba. Drums such as the deep surdo, snare-like caixa, and repinique create interlocking rhythms. The performance combines percussion with coordinated movement.",
     "musicWords": [
@@ -192,7 +194,9 @@
     "countries": [
       "ZA"
     ],
-    "communities": [],
+    "communities": [
+      "South African"
+    ],
     "videoUrl": "",
     "summary": "South Africa’s Ndlovu Youth Choir joins electronic music producers Sun-El Musician and Kenza in “Afrika Hey,” a celebration of Africa and its people. The song blends layered choral harmonies with Afro-house dance beats, and its video features dancing in Johannesburg.",
     "musicWords": [
@@ -218,7 +222,7 @@
     ],
     "communities": [
       "Apsáalooke (Crow)",
-      "Confederated Tribes of the Umatilla Indian Reservation (Acosia Red Elk)"
+      "Umatilla Tribes"
     ],
     "videoUrl": "",
     "summary": "Supaman is an Apsáalooke (Crow) hip-hop musician from Montana. In “Why,” he uses looping to build layers of sound and explores injustice, hope, and change. Acosia Red Elk, from the Confederated Tribes of the Umatilla Indian Reservation, performs jingle dress dancing, a tradition connected to healing.",
@@ -244,8 +248,8 @@
       "IL"
     ],
     "communities": [
-      "Jewish and Arab communities in Israel",
-      "Participants from diverse religious and nonreligious backgrounds"
+      "Jewish Israeli",
+      "Arab Israeli"
     ],
     "videoUrl": "",
     "summary": "In 2018, Koolulam brought about 3,000 people together in Haifa to sing Matisyahu’s “One Day” in Hebrew, Arabic, and English. The three languages help share a message of peace across communities. Sign language interpreter Chen Hayat makes the message more accessible. Listen for layered choral harmonies.",
@@ -331,8 +335,7 @@
       "SN"
     ],
     "communities": [
-      "Mandinka",
-      "Other Senegalese communities"
+      "Mandinka"
     ],
     "videoUrl": "",
     "summary": "Jalikunda African Drums shares Senegalese drumming and dance traditions. The musicians use drums such as the djembe to create interlocking rhythms—different patterns that fit together. West African jali (griots) help preserve community histories and stories through music.",
