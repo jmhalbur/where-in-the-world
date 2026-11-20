@@ -383,19 +383,20 @@
     "country": "New Zealand",
     "countryCode": "NZ",
     "language": "Māori",
-    "style": "",
+    "style": "Māori waiata / Traditional action song",
     "facts": [],
     "countries": [
       "NZ"
     ],
-    "communities": [],
+    "communities": [
+      "Māori"
+    ],
     "videoUrl": "",
-    "summary": "This performance draws on Māori language and musical traditions from Aotearoa New Zealand. Listen for the relationship between voice and rhythm.",
+    "summary": "“Aku Mahi” is a Māori waiata by Kōhine Pōnika celebrating the performing arts passed down through generations. Its lyrics mention haka, poi, action songs, and traditional weapons. Singing and coordinated movements express pride in Māori culture and the importance of preserving ancestral knowledge.",
     "musicWords": [
       {
         "language": "Māori",
-        "word": "waiata",
-        "note": "Means “song” or “to sing.” Māori musical traditions include more than songs alone."
+        "word": "puoro"
       }
     ],
     "thumbnailVideoId": "t4CAjr4Pr_0",
