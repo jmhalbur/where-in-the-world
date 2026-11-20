@@ -1035,14 +1035,16 @@
     "country": "Nicaragua",
     "countryCode": "NI",
     "language": "Spanish",
-    "style": "",
+    "style": "Reggae / Afro-Caribbean fusion",
     "facts": [],
     "countries": [
       "NI"
     ],
-    "communities": [],
+    "communities": [
+      "Afro-Nicaraguan / Creole"
+    ],
     "videoUrl": "",
-    "summary": "“Vuelvo” means “I return.” Nicaraguan reggae musician Philip Montalbán explores connections to home, family, and Afro-Caribbean culture.",
+    "summary": "Nicaraguan musician Philip Montalbán combines reggae with influences from the Afro-Caribbean musical traditions of Nicaragua's Caribbean coast. “Vuelvo” means “I'm coming back” and explores the connection people feel to home, family, and cultural identity. Its reggae rhythms reflect musical connections across the Caribbean.",
     "musicWords": [
       {
         "language": "Spanish",
@@ -1059,14 +1061,16 @@
     "country": "Nepal",
     "countryCode": "NP",
     "language": "Nepali",
-    "style": "",
+    "style": "Nepali festival song / Contemporary folk-inspired music",
     "facts": [],
     "countries": [
       "NP"
     ],
-    "communities": [],
+    "communities": [
+      "Nepali"
+    ],
     "videoUrl": "",
-    "summary": "“Dashain Aayo” means “Dashain has arrived!” This song celebrates an important festival in Nepal.",
+    "summary": "“Dashain Aayo” means “Dashain Has Arrived!” This Nepali festival song celebrates one of Nepal's biggest holidays, when many families gather for blessings, food, and celebrations. Dashain lasts about 15 days, and traditions can include colorful kites, bamboo swings, and visits with relatives. The music captures the excitement of the festival's arrival.",
     "musicWords": [
       {
         "language": "Nepali",
@@ -1083,16 +1087,16 @@
     "country": "Pakistan",
     "countryCode": "PK",
     "language": "Pashto",
-    "style": "",
+    "style": "Pashto folk-pop / Hip-hop fusion",
     "facts": [],
     "countries": [
       "PK"
     ],
     "communities": [
-      "Pashto"
+      "Pashtun"
     ],
     "videoUrl": "",
-    "summary": "“Larsha Pekhawar” means “Go to Peshawar.” This Pashto-language performance combines singing and rap; listen for the rubab string instrument.",
+    "summary": "Pakistani singer Ali Zafar joins Gul Panra and Fortitude Pukhtoon Core in this 2021 celebration of Pashtun culture. The song combines Pashto singing, hip-hop, and traditional musical influences, including the rubab, a plucked string instrument. Its title refers to Peshawar, a historic city in northwestern Pakistan.",
     "musicWords": [
       {
         "language": "Pashto",
@@ -1109,14 +1113,16 @@
     "country": "Australia",
     "countryCode": "AU",
     "language": "Yolŋu Matha",
-    "style": "",
+    "style": "Indigenous Australian hip-hop / Contemporary rap",
     "facts": [],
     "countries": [
       "AU"
     ],
-    "communities": [],
+    "communities": [
+      "Yolŋu (Aboriginal Australian)"
+    ],
     "videoUrl": "",
-    "summary": "Baker Boy is an Aboriginal Australian rapper who performs in Yolŋu Matha and English. “Marryuna” celebrates dance and language.",
+    "summary": "Yolŋu Australian rapper Baker Boy joins singer Yirrmal in this 2017 hip-hop song celebrating dance, language, and cultural pride. “Marryuna” means dancing freely and joyfully, without shame. Baker Boy raps in Yolŋu Matha and English, blending contemporary hip-hop with references to Yolŋu musical traditions, including the yiḏaki and manikay.",
     "musicWords": [
       {
         "language": "Yolŋu Matha",
