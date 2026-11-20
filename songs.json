@@ -747,14 +747,16 @@
     "country": "United States",
     "countryCode": "US",
     "language": "English",
-    "style": "",
+    "style": "Progressive instrumental rock / Flamenco and trap influences",
     "facts": [],
     "countries": [
       "US"
     ],
-    "communities": [],
+    "communities": [
+      "American"
+    ],
     "videoUrl": "",
-    "summary": "Polyphia is an instrumental rock band known for intricate guitar playing. “Playing God” combines acoustic-style guitar sounds and modern rhythms.",
+    "summary": "American instrumental rock band Polyphia combines intricate guitar melodies with influences from flamenco, bossa nova, and hip-hop. Released in 2022, “Playing God” features guitarists Tim Henson and Scott LePage using nylon-string guitars alongside bass, drums, and modern electronic-style rhythms.",
     "musicWords": [
       {
         "language": "English",
@@ -768,19 +770,28 @@
     "id": "song-FGM3U3buQj0",
     "title": "Classical Dragon",
     "artist": "Marcin feat. Tim Henson",
-    "country": "United States",
-    "countryCode": "US",
-    "language": "",
-    "style": "",
+    "country": "Poland",
+    "countryCode": "PL",
+    "language": "Polish",
+    "style": "Contemporary instrumental guitar / Percussive fingerstyle",
     "facts": [],
     "countries": [
+      "PL",
       "US"
     ],
-    "communities": [],
+    "communities": [
+      "Polish"
+    ],
     "videoUrl": "",
-    "summary": "Tim Henson and Marcin bring together different guitar-playing techniques. Watch how they make both melodies and rhythms with their instruments.",
+    "summary": "Polish guitarist Marcin joins American guitarist Tim Henson of Polyphia in this 2024 instrumental collaboration. Marcin uses percussive fingerstyle techniques, tapping and striking his acoustic guitar to create both melodies and rhythms. The performance combines classical-inspired guitar playing with modern musical influences.",
     "thumbnailVideoId": "FGM3U3buQj0",
-    "driveVideoId": "15FjUgYCNS6rmkO7tipLTrER0WZgM-TLq"
+    "driveVideoId": "15FjUgYCNS6rmkO7tipLTrER0WZgM-TLq",
+    "musicWords": [
+      {
+        "language": "Polish",
+        "word": "muzyka"
+      }
+    ]
   },
   {
     "id": "song-1ti2YCFgCoI",
@@ -789,17 +800,19 @@
     "country": "Jamaica",
     "countryCode": "JM",
     "language": "English / Jamaican Patois",
-    "style": "",
+    "style": "Reggae / Disco fusion",
     "facts": [],
     "countries": [
       "JM"
     ],
-    "communities": [],
+    "communities": [
+      "Jamaican"
+    ],
     "videoUrl": "",
-    "summary": "Bob Marley & The Wailers combine reggae and disco influences in “Could You Be Loved,” a song about love and being true to yourself.",
+    "summary": "Jamaican singer Bob Marley and his band, the Wailers, released “Could You Be Loved” in 1980 on the album Uprising. The song combines reggae's offbeat rhythms and bass lines with disco's danceable groove. Its message encourages listeners to show love, think for themselves, and stay true to who they are.",
     "musicWords": [
       {
-        "language": "English / Jamaican Patois",
+        "language": "English",
         "word": "music"
       }
     ],
@@ -812,17 +825,25 @@
     "artist": "Bob Marley & The Wailers",
     "country": "Jamaica",
     "countryCode": "JM",
-    "language": "",
-    "style": "",
+    "language": "English / Jamaican Patois",
+    "style": "Roots reggae / Protest song",
     "facts": [],
     "countries": [
       "JM"
     ],
-    "communities": [],
+    "communities": [
+      "Jamaican"
+    ],
     "videoUrl": "",
-    "summary": "Bob Marley's reggae song “Get Up, Stand Up” encourages listeners to speak up for their rights. Listen for the repeated chorus and rhythmic groove.",
+    "summary": "“Get Up, Stand Up” was written by Jamaican musicians Bob Marley and Peter Tosh and released in 1973. This roots reggae protest song encourages people to stand up for their rights and speak out against injustice. Its powerful message, repeating chorus, and steady reggae groove helped make it an international anthem for human rights.",
     "thumbnailVideoId": "IhQEBAl3Gpk",
-    "driveVideoId": "1ZGIyC8A6Tu27R1abnzAYB4z-vG-RH2LX"
+    "driveVideoId": "1ZGIyC8A6Tu27R1abnzAYB4z-vG-RH2LX",
+    "musicWords": [
+      {
+        "language": "English",
+        "word": "music"
+      }
+    ]
   },
   {
     "id": "song-ny78BCBir2Q",
