@@ -1220,7 +1220,7 @@
     "country": "India",
     "countryCode": "IN",
     "language": "Hindi",
-    "style": "Bollywood film song",
+    "style": "Bollywood",
     "facts": [
       "From the 1997 film Dil To Pagal Hai",
       "The title means ‘There Is a Girl.’",
@@ -1230,9 +1230,11 @@
     "countries": [
       "IN"
     ],
-    "communities": [],
+    "communities": [
+      "Indian"
+    ],
     "videoUrl": "",
-    "summary": "“Koi Ladki Hai” is a Hindi film song from Dil To Pagal Hai. Lata Mangeshkar and Udit Narayan sing while actors perform on screen.",
+    "summary": "A Hindi-language song from the 1997 Bollywood film Dil To Pagal Hai. Playback singers Lata Mangeshkar and Udit Narayan provide the recorded voices for actors Madhuri Dixit and Shah Rukh Khan. The playful lyrics imagine a girl's laughter and a boy's singing bringing the monsoon rain, a seasonal event often associated with joy and romance in Indian films.",
     "musicWords": [
       {
         "language": "Hindi",
@@ -1259,9 +1261,11 @@
     "countries": [
       "CU"
     ],
-    "communities": [],
+    "communities": [
+      "Cuban"
+    ],
     "videoUrl": "",
-    "summary": "Gloria Estefan's “Montuno” celebrates Cuban son montuno, with repeating instrumental patterns, percussion, and call and response.",
+    "summary": "Cuban American singer Gloria Estefan recorded “Montuno” for her 1993 album Mi Tierra (“My Homeland”). Written by Cuban musician Juanito Márquez, the song celebrates son montuno, a Cuban style combining African and European musical influences. Repeating instrumental patterns, percussion, and call-and-response singing helped shape the development of salsa music.",
     "musicWords": [
       {
         "language": "Spanish",
@@ -1278,14 +1282,16 @@
     "country": "Ireland",
     "countryCode": "IE",
     "language": "Irish (Gaeilge)",
-    "style": "",
+    "style": "Irish folk",
     "facts": [],
     "countries": [
       "IE"
     ],
-    "communities": [],
+    "communities": [
+      "Irish"
+    ],
     "videoUrl": "",
-    "summary": "“Dúlaman” is a traditional Irish-language song about seaweed. Celtic Woman's arrangement features singer Lisa Lambe.",
+    "summary": "“Dúlaman” is a traditional Irish-language song about seaweed, once an important resource in coastal communities. The lyrics playfully describe different kinds of seaweed as characters. Celtic Woman's performance features singer Lisa Lambe in a contemporary arrangement of this traditional song, connecting Irish-language singing with modern stage performance.",
     "musicWords": [
       {
         "language": "Irish (Gaeilge)",
@@ -1302,14 +1308,16 @@
     "country": "Palestine",
     "countryCode": "PS",
     "language": "Arabic",
-    "style": "",
+    "style": "Palestinian pop / Hip-hop",
     "facts": [],
     "countries": [
       "PS"
     ],
-    "communities": [],
+    "communities": [
+      "Palestinian"
+    ],
     "videoUrl": "",
-    "summary": "Saint Levant and Mohammed Assaf perform Palestinian Arabic pop. The video features dabkeh, a group dance with synchronized steps and stomps.",
+    "summary": "Palestinian artists Saint Levant and Mohammed Assaf combine contemporary Arabic popular music with influences from hip-hop. Their performance features dabkeh, a traditional group dance practiced in Palestine and other parts of the Levant. Dancers move together through coordinated steps, stomping, and rhythmic patterns, celebrating cultural connection and community.",
     "musicWords": [
       {
         "language": "Arabic",
@@ -1326,14 +1334,16 @@
     "country": "France",
     "countryCode": "FR",
     "language": "French",
-    "style": "",
+    "style": "French pop",
     "facts": [],
     "countries": [
       "FR"
     ],
-    "communities": [],
+    "communities": [
+      "French"
+    ],
     "videoUrl": "",
-    "summary": "French singer Indila's “S.O.S.” is about feeling lost and calling out for help. Listen for the emotion in her voice.",
+    "summary": "French singer and songwriter Indila released “S.O.S.” on her 2014 album Mini World. Indila has described herself as a “child of the world,” reflecting her family's diverse cultural roots. The song explores feelings of loneliness and being lost, expressing a desire for someone to hear a call for help. Her expressive singing combines with dramatic orchestral and pop sounds.",
     "musicWords": [
       {
         "language": "French",
@@ -1345,12 +1355,12 @@
   },
   {
     "id": "drum-tao",
-    "title": "Taiko Drumming Performance (The Late Show with Stephen Colbert)",
+    "title": "Taiko Performance (The Late Show with Stephen Colbert)",
     "artist": "DRUM TAO",
     "country": "Japan",
     "countryCode": "JP",
     "language": "Japanese",
-    "style": "Modern taiko performance",
+    "style": "Contemporary taiko",
     "facts": [
       "DRUM TAO is a taiko drumming group from Japan.",
       "Wadaiko are Japanese drums of different shapes and sizes.",
@@ -1360,9 +1370,11 @@
     "countries": [
       "JP"
     ],
-    "communities": [],
+    "communities": [
+      "Japanese"
+    ],
     "videoUrl": "",
-    "summary": "DRUM TAO is a Japanese taiko ensemble. Its performers combine powerful wadaiko drums, coordinated rhythms, and movement.",
+    "summary": "Japanese performance group DRUM TAO combines traditional Japanese percussion with contemporary music, choreography, and theatrical performance. The musicians play wadaiko, meaning Japanese drums, in different shapes and sizes. Modern taiko ensembles combine powerful rhythms, synchronized movement, and dramatic changes in volume and speed.",
     "musicWords": [
       {
         "language": "Japanese",
@@ -1374,21 +1386,23 @@
   },
   {
     "id": "song-lE6N_QD99C8",
-    "title": "Finess",
+    "title": "Finesse",
     "artist": "Michael Prince",
     "country": "United States",
     "countryCode": "US",
     "language": "English",
-    "style": "",
+    "style": "Hip-hop violin",
     "facts": [
       "Video link needs correction: spreadsheet currently points to DRUM TAO."
     ],
     "countries": [
       "US"
     ],
-    "communities": [],
+    "communities": [
+      "African American"
+    ],
     "videoUrl": "",
-    "summary": "Michael Prince's contemporary performance invites you to notice the connections among rhythm, singing, and movement.",
+    "summary": "American violinist Michael Prince combines classical violin techniques with influences from hip-hop, R&B, and popular music. His instrumental track “Finesse” demonstrates how the violin can be used in contemporary musical styles. Prince also founded Hood Orchestra, which introduces young people to the violin through creative music education.",
     "musicWords": [
       {
         "language": "English",
@@ -1405,7 +1419,7 @@
     "country": "Cameroon",
     "countryCode": "CM",
     "language": "Baka",
-    "style": "Water drumming",
+    "style": "Baka water drumming",
     "facts": [
       "Women and girls make rhythms by striking the water surface.",
       "Ostinato means a repeating musical pattern.",
@@ -1418,7 +1432,7 @@
       "Baka"
     ],
     "videoUrl": "",
-    "summary": "Liquindi is a Baka water-drumming tradition from Central Africa. Women and girls strike the water to make interlocking rhythms.",
+    "summary": "Liquindi is a water-drumming tradition practiced by Baka women and girls in Central Africa. Performers strike the surface of water with their hands, creating different pitches and interlocking rhythms. The water itself becomes the instrument, demonstrating how music can be made with materials found in the natural environment.",
     "musicWords": [
       {
         "language": "Baka",
@@ -1436,14 +1450,16 @@
     "country": "Brazil",
     "countryCode": "BR",
     "language": "Portuguese",
-    "style": "",
+    "style": "Bossa nova",
     "facts": [],
     "countries": [
       "BR"
     ],
-    "communities": [],
+    "communities": [
+      "Brazilian"
+    ],
     "videoUrl": "",
-    "summary": "“Desafinado” means “out of tune.” This bossa nova song playfully answers critics; listen for gentle guitar rhythms and jazz-influenced melody.",
+    "summary": "Brazilian singer and guitarist João Gilberto helped develop bossa nova during the late 1950s. “Desafinado,” meaning “Out of Tune,” was composed by Antônio Carlos Jobim and Newton Mendonça. The song playfully responds to criticism of the new musical style, which combines gentle guitar rhythms, understated singing, and jazz-influenced harmonies.",
     "musicWords": [
       {
         "language": "Portuguese",
@@ -1456,20 +1472,20 @@
   {
     "id": "song-kYf2k8474x0",
     "title": "Love Song (Inuit Throat Singing)",
-    "artist": "",
+    "artist": "Riit Mike & Mary Meeka",
     "country": "Canada",
     "countryCode": "CA",
     "language": "Inuktitut",
-    "style": "",
+    "style": "Inuit throat singing",
     "facts": [],
     "countries": [
       "CA"
     ],
     "communities": [
-      "Inuit"
+      "Inuit (Nunavut)"
     ],
     "videoUrl": "",
-    "summary": "Inuit throat singing often involves two performers exchanging short rhythmic sounds. Listen for breath, repetition, and playful interaction.",
+    "summary": "Inuit performers Riit Mike and Mary Meeka demonstrate katajjaq, a traditional form of Inuit throat singing, beside a carved monument at Pangnirtung Harbour in Nunavut, Canada. Two performers exchange short rhythmic vocal sounds, creating interlocking patterns through breath, repetition, and playful interaction. This tradition is practiced in Inuit communities across the Canadian Arctic.",
     "musicWords": [
       {
         "language": "Inuktitut",
@@ -1486,7 +1502,7 @@
     "country": "Ethiopia",
     "countryCode": "ET",
     "language": "Oromo (Afaan Oromoo)",
-    "style": "",
+    "style": "Oromo pop",
     "facts": [],
     "countries": [
       "ET"
@@ -1495,7 +1511,7 @@
       "Oromo"
     ],
     "videoUrl": "",
-    "summary": "Kemer Yousuf performs in Afaan Oromoo, a language spoken in Ethiopia. Listen for Oromo-language singing and contemporary sounds.",
+    "summary": "Ethiopian musician Kemer Yousuf performs in Afaan Oromoo, the language of the Oromo people. The song's title refers to Dire Dawa, a city in eastern Ethiopia with a diverse cultural history. The performance connects contemporary popular music with Oromo language and identity.",
     "musicWords": [
       {
         "language": "Oromo (Afaan Oromoo)",
@@ -1512,14 +1528,16 @@
     "country": "Norway",
     "countryCode": "NO",
     "language": "Norwegian",
-    "style": "",
+    "style": "Norwegian folk",
     "facts": [],
     "countries": [
       "NO"
     ],
-    "communities": [],
+    "communities": [
+      "Norwegian"
+    ],
     "videoUrl": "",
-    "summary": "Spokanki performs “Tjovane,” a Norwegian story song about thieves, with layered voices, frame drums, and tambourine.",
+    "summary": "Norwegian group Spokanki performs a story song about two thieves, Steinfinn and Ståle. In the story, Steinfinn distracts a woman by singing while Ståle steals from her storeroom. The performance uses layered voices and percussion to bring the story to life.",
     "musicWords": [
       {
         "language": "Norwegian",
@@ -1536,14 +1554,16 @@
     "country": "Egypt",
     "countryCode": "EG",
     "language": "Arabic",
-    "style": "",
+    "style": "Egyptian pop",
     "facts": [],
     "countries": [
       "EG"
     ],
-    "communities": [],
+    "communities": [
+      "Egyptian"
+    ],
     "videoUrl": "",
-    "summary": "Egyptian singer Amr Diab's “Nour El Ain” means “light of my eyes.” The Arabic pop song blends guitar and dance rhythms.",
+    "summary": "Egyptian singer Amr Diab released “Nour El Ain” (“Light of My Eyes”) in 1996. The song became an international success and helped popularize his blend of Arabic pop with Mediterranean and contemporary dance-music influences. Its memorable melody, guitar accompaniment, and dance rhythms demonstrate how Egyptian popular music combines regional traditions with modern production.",
     "musicWords": [
       {
         "language": "Arabic",
