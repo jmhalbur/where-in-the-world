@@ -852,14 +852,16 @@
     "country": "Cameroon",
     "countryCode": "CM",
     "language": "Duala",
-    "style": "",
+    "style": "Makossa / Afro-funk / Jazz fusion",
     "facts": [],
     "countries": [
       "CM"
     ],
-    "communities": [],
+    "communities": [
+      "Duala (Cameroonian)"
+    ],
     "videoUrl": "",
-    "summary": "Cameroonian musician Manu Dibango made “Soul Makossa” famous. Makossa is dance music from Cameroon; listen for saxophone, funk, and jazz influences.",
+    "summary": "Cameroonian saxophonist Manu Dibango released “Soul Makossa” in 1972, blending Cameroonian makossa dance rhythms with funk, soul, and jazz. The song became an international hit and influenced dance music around the world. Its famous vocal refrain was later used in Michael Jackson's “Wanna Be Startin' Somethin'.”",
     "musicWords": [
       {
         "language": "Duala",
@@ -876,14 +878,16 @@
     "country": "Vietnam",
     "countryCode": "VN",
     "language": "Vietnamese",
-    "style": "",
+    "style": "Vietnamese pop / Folk-inspired pop",
     "facts": [],
     "countries": [
       "VN"
     ],
-    "communities": [],
+    "communities": [
+      "Southern Vietnamese"
+    ],
     "videoUrl": "",
-    "summary": "Vietnamese singer Lương Khánh Vy performs a song connected with the Mekong Delta, a region known for rivers, canals, and boats.",
+    "summary": "Vietnamese singer Lương Khánh Vy performs a folk-inspired pop song about a young woman from the Mekong Delta who moves to the city but misses her peaceful countryside home. Written by Khánh Đơn, the song celebrates rural life, rivers, rice fields, and community. It later became popular through social media around the world.",
     "musicWords": [
       {
         "language": "Vietnamese",
@@ -899,15 +903,17 @@
     "artist": "جنرال أوكا (G.oka)",
     "country": "Egypt",
     "countryCode": "EG",
-    "language": "Arabic",
-    "style": "",
+    "language": "Egyptian Arabic",
+    "style": "Egyptian mahraganat / Electronic street pop",
     "facts": [],
     "countries": [
       "EG"
     ],
-    "communities": [],
+    "communities": [
+      "Egyptian"
+    ],
     "videoUrl": "",
-    "summary": "Egyptian musician G.oka performs mahraganat, a high-energy electronic street-music style. The playful title means “I don't remember the verse!”",
+    "summary": "Egyptian artist G.oka performs mahraganat, an energetic street-music style combining electronic beats, rhythmic vocals, and Egyptian popular music. The playful title means “I Can't Remember the Verse,” and the lyrics joke about forgetting part of the song. The recording mixes electronic production with live percussion.",
     "musicWords": [
       {
         "language": "Arabic",
@@ -924,14 +930,16 @@
     "country": "Venezuela",
     "countryCode": "VE",
     "language": "Spanish",
-    "style": "",
+    "style": "Reggae / Latin ska influences",
     "facts": [],
     "countries": [
       "VE"
     ],
-    "communities": [],
+    "communities": [
+      "Venezuelan"
+    ],
     "videoUrl": "",
-    "summary": "Venezuelan band Desorden Público sings about people who leave their homeland and those who remain. The song expresses sadness and hope for reunion.",
+    "summary": "Venezuelan band Desorden Público released this reggae song in 2016 about people who leave their homeland and those who stay behind. The lyrics describe family and friends scattered across the world, remembering home through music, food, and traditions. Its hopeful chorus imagines a day when loved ones will reunite.",
     "musicWords": [
       {
         "language": "Spanish",
