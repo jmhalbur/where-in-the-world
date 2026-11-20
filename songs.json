@@ -590,18 +590,20 @@
     "artist": "UCLA Samahang Pilipino",
     "country": "Philippines",
     "countryCode": "PH",
-    "language": "Cebuano",
-    "style": "",
+    "language": "Instrumental / No sung language",
+    "style": "Traditional Filipino folk dance / Bamboo percussion",
     "facts": [],
     "countries": [
       "PH"
     ],
-    "communities": [],
+    "communities": [
+      "Filipino"
+    ],
     "videoUrl": "",
-    "summary": "Tinikling is a Filipino folk dance in which dancers time their steps between moving bamboo poles. The poles make a rhythm of their own.",
+    "summary": "Tinikling is a traditional Filipino dance associated with the island of Leyte. Dancers step and jump between bamboo poles that open and close in repeating rhythms. The dance is often said to imitate the quick movements of tikling birds. This performance is by UCLA Samahang Pilipino, a Filipino student organization.",
     "musicWords": [
       {
-        "language": "Cebuano",
+        "language": "Filipino (Tagalog)",
         "word": "musika"
       }
     ],
@@ -611,20 +613,28 @@
   {
     "id": "song-QqnbJWyydqs",
     "title": "Hip-Hop Tinikling (Modern Filipino Bamboo Dance)",
-    "artist": "",
+    "artist": "Georgia Tech Filipino Students Association",
     "country": "Philippines",
     "countryCode": "PH",
-    "language": "",
-    "style": "",
+    "language": "Instrumental / No sung language",
+    "style": "Hip-hop / Contemporary Filipino folk-dance fusion",
     "facts": [],
     "countries": [
       "PH"
     ],
-    "communities": [],
+    "communities": [
+      "Filipino American"
+    ],
     "videoUrl": "",
-    "summary": "This performance adds a contemporary hip-hop style to Filipino tinikling. Watch how dancers coordinate with the moving bamboo poles.",
+    "summary": "Filipino American students from the Georgia Tech Filipino Students Association put a modern hip-hop twist on traditional tinikling. Their performance combines contemporary music and choreography with the rhythmic bamboo poles of the Filipino folk dance, showing how cultural traditions can be reimagined by new generations.",
     "thumbnailVideoId": "QqnbJWyydqs",
-    "driveVideoId": "1DwK8Z50c945wsgZbLxPAYzm3uZ6cOpjr"
+    "driveVideoId": "1DwK8Z50c945wsgZbLxPAYzm3uZ6cOpjr",
+    "musicWords": [
+      {
+        "language": "Filipino (Tagalog)",
+        "word": "musika"
+      }
+    ]
   },
   {
     "id": "song-7dbXPw11AE4",
