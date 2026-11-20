@@ -643,14 +643,16 @@
     "country": "United States",
     "countryCode": "US",
     "language": "English",
-    "style": "",
+    "style": "A cappella choral / Community singing",
     "facts": [],
     "countries": [
       "US"
     ],
-    "communities": [],
+    "communities": [
+      "African American"
+    ],
     "videoUrl": "",
-    "summary": "Melanie DeMore's “Lead with Love” is about persistence, hope, and supporting one another. Its repeating words invite everyone to sing.",
+    "summary": "Melanie DeMore is an African American singer and composer who wrote “Lead with Love” in 2016 to encourage hope, courage, and community. Inspired by African American musical traditions, the song uses call-and-response singing. This performance features DeMore and Minnesota's VocalEssence choirs at Orchestra Hall in Minneapolis.",
     "musicWords": [
       {
         "language": "English",
@@ -667,14 +669,16 @@
     "country": "Cambodia",
     "countryCode": "KH",
     "language": "Khmer",
-    "style": "",
+    "style": "Cambodian classic pop / Contemporary cover",
     "facts": [],
     "countries": [
       "KH"
     ],
-    "communities": [],
+    "communities": [
+      "Cambodian (Khmer)"
+    ],
     "videoUrl": "",
-    "summary": "Vann Lida performs a cover of a song associated with Cambodian singer Sinn Sisamouth. A cover is a new performance of an existing song.",
+    "summary": "Vann Lida performs “Because of You,” a Khmer love song associated with legendary Cambodian singer Sinn Sisamouth. Sisamouth helped shape Cambodia's popular music during the 1950s–1970s. This modern cover introduces a classic song to new listeners while preserving a connection to Cambodia's musical history.",
     "musicWords": [
       {
         "language": "Khmer",
@@ -690,15 +694,17 @@
     "artist": "MEUTE",
     "country": "Germany",
     "countryCode": "DE",
-    "language": "German",
-    "style": "",
+    "language": "Instrumental / No sung language",
+    "style": "Techno marching band / Electronic-rock cover",
     "facts": [],
     "countries": [
       "DE"
     ],
-    "communities": [],
+    "communities": [
+      "German"
+    ],
     "videoUrl": "",
-    "summary": "MEUTE is a German techno marching band. Its brass and percussion instruments recreate sounds often associated with electronic dance music.",
+    "summary": "German techno marching band MEUTE transforms AWOLNATION's electronic-rock song “Sail” into an instrumental performance using brass and percussion. Trumpets, saxophones, sousaphone, marimba, and drums create sounds usually associated with electronic music. This video was filmed outdoors in Adelaide, Australia.",
     "musicWords": [
       {
         "language": "German",
@@ -715,14 +721,16 @@
     "country": "El Salvador",
     "countryCode": "SV",
     "language": "Spanish",
-    "style": "",
+    "style": "Salvadoran chanchona / Cumbia",
     "facts": [],
     "countries": [
       "SV"
     ],
-    "communities": [],
+    "communities": [
+      "Salvadoran"
+    ],
     "videoUrl": "",
-    "summary": "Los Hermanos Lovo play chanchona music from El Salvador. Their song celebrates the carnival of San Miguel, with violins and a large string bass.",
+    "summary": "Los Hermanos Lovo perform chanchona, a lively musical tradition from eastern El Salvador featuring violins, a large upright bass, and cumbia rhythms. After leaving El Salvador during its civil war, the family continued sharing their music in the United States. “Carnaval de Mi Tierra” celebrates their homeland and its traditions.",
     "musicWords": [
       {
         "language": "Spanish",
