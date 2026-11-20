@@ -356,14 +356,16 @@
     "country": "India",
     "countryCode": "IN",
     "language": "Hindi and Marathi",
-    "style": "",
+    "style": "Bollywood film music / Indian celebratory dance",
     "facts": [],
     "countries": [
       "IN"
     ],
-    "communities": [],
+    "communities": [
+      "Marathi"
+    ],
     "videoUrl": "",
-    "summary": "“Malhari” is a Bollywood song-and-dance performance from the Hindi film Bajirao Mastani. Notice the combination of music, choreography, and storytelling.",
+    "summary": "“Malhari” is a victory celebration from the 2015 Bollywood film Bajirao Mastani, set in 18th-century India. Singer Vishal Dadlani provides the voice while actor Ranveer Singh dances on screen. Powerful drum rhythms, energetic singing, and synchronized choreography celebrate the Maratha warriors’ victory.",
     "musicWords": [
       {
         "language": "Hindi and Marathi",
