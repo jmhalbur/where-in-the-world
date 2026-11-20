@@ -409,14 +409,16 @@
     "country": "Chile",
     "countryCode": "CL",
     "language": "Spanish",
-    "style": "",
+    "style": "Nueva Canción Chilena / Folk rock / Protest song",
     "facts": [],
     "countries": [
       "CL"
     ],
-    "communities": [],
+    "communities": [
+      "Chilean"
+    ],
     "videoUrl": "",
-    "summary": "“The Right to Live in Peace” was written by Chilean musician Víctor Jara. Later artists recorded it to call for peace and justice.",
+    "summary": "Chilean musician Víctor Jara released “El Derecho de Vivir en Paz” in 1971, calling for peace during the Vietnam War. Part of the Nueva Canción Chilena movement, the song blends folk music with electric guitars and rock instruments. It later became an anthem for people seeking justice in Chile.",
     "musicWords": [
       {
         "language": "Spanish",
