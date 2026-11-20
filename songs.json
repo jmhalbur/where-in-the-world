@@ -513,14 +513,16 @@
     "country": "Kenya",
     "countryCode": "KE",
     "language": "Swahili",
-    "style": "",
+    "style": "Kenyan popular music / Choral cover",
     "facts": [],
     "countries": [
       "KE"
     ],
-    "communities": [],
+    "communities": [
+      "Kenyan"
+    ],
     "videoUrl": "",
-    "summary": "“Jambo Bwana” is a Kenyan welcome song. Listen for Swahili greetings including “jambo” (hello) and “hakuna matata” (no worries).",
+    "summary": "“Jambo Bwana” is a Kenyan welcome song written by Teddy Kalanda Harrison and made famous by Them Mushrooms in the early 1980s. Msanii Music Group performs a choral version featuring Swahili greetings such as “jambo” (hello) and “hakuna matata” (no worries). The song welcomes visitors and celebrates Kenya.",
     "musicWords": [
       {
         "language": "Swahili",
@@ -537,14 +539,16 @@
     "country": "Syria",
     "countryCode": "SY",
     "language": "Arabic",
-    "style": "",
+    "style": "Syrian folk-inspired pop / Contemporary Arabic music",
     "facts": [],
     "countries": [
       "SY"
     ],
-    "communities": [],
+    "communities": [
+      "Syrian Arab"
+    ],
     "videoUrl": "",
-    "summary": "Syrian band Takkat performs a modern arrangement of a traditional Arabic song, blending older musical heritage with contemporary sounds.",
+    "summary": "Syrian group Takat Band blends regional Arabic folk traditions with contemporary pop sounds. “Yamma W Ya Yabi” uses expressive singing and repeating rhythms to tell of love and longing. Its lyrics also mention chobi, a group dance popular in Iraq and neighboring regions.",
     "musicWords": [
       {
         "language": "Arabic",
@@ -561,14 +565,16 @@
     "country": "Brazil",
     "countryCode": "BR",
     "language": "Portuguese",
-    "style": "",
+    "style": "Brazilian forró / Contemporary percussion arrangement",
     "facts": [],
     "countries": [
       "BR"
     ],
-    "communities": [],
+    "communities": [
+      "Northeastern Brazilian"
+    ],
     "videoUrl": "",
-    "summary": "“É Proibido Cochilar” means “No Sleeping Allowed.” Mari Campolongo performs this lively Brazilian forró song with an asalato, a handheld percussion instrument.",
+    "summary": "“É Proibido Cochilar” is a Brazilian forró song written by Antônio Barros. Its title means “Sleeping Is Forbidden,” describing a lively dance hall where the music continues until morning. Mari Campolongo performs a creative percussion arrangement using an asalato, a handheld instrument with two connected shakers.",
     "musicWords": [
       {
         "language": "Portuguese",
