@@ -6,7 +6,7 @@
     "country": "Russia",
     "countryCode": "RU",
     "language": "Khakas (Khakass)",
-    "style": "Indigenous Siberian folk fusion",
+    "style": "Siberian folk fusion",
     "facts": [],
     "countries": [
       "RU"
@@ -33,7 +33,7 @@
     "country": "United Kingdom",
     "countryCode": "GB",
     "language": "Middle English",
-    "style": "Medieval English round / canon",
+    "style": "Medieval round",
     "facts": [],
     "countries": [
       "GB"
@@ -59,7 +59,7 @@
     "country": "Belarus",
     "countryCode": "BY",
     "language": "Belarusian",
-    "style": "Traditional Belarusian folk song / Polyphonic folk singing",
+    "style": "Belarusian folk singing",
     "facts": [],
     "countries": [
       "BY"
@@ -85,7 +85,7 @@
     "country": "United States",
     "countryCode": "US",
     "language": "Hmong",
-    "style": "Contemporary Hmong dance-pop",
+    "style": "Hmong dance-pop",
     "facts": [],
     "countries": [
       "US"
@@ -111,7 +111,7 @@
     "country": "Tokelau (Polynesia)",
     "countryCode": "TK",
     "language": "Gagana Tokelau",
-    "style": "Contemporary Polynesian / Pacific fusion",
+    "style": "Polynesian fusion",
     "facts": [],
     "countries": [
       "TK"
@@ -137,7 +137,7 @@
     "country": "Somalia",
     "countryCode": "SO",
     "language": "Somali",
-    "style": "Somali children's song / Educational song",
+    "style": "Somali children's song",
     "facts": [],
     "countries": [
       "SO"
@@ -163,7 +163,7 @@
     "country": "Colombia",
     "countryCode": "CO",
     "language": "Spanish",
-    "style": "Afro-Brazilian batucada / Colombian percussion fusion",
+    "style": "Batucada fusion",
     "facts": [],
     "countries": [
       "CO"
@@ -189,7 +189,7 @@
     "country": "South Africa",
     "countryCode": "ZA",
     "language": "isiZulu",
-    "style": "South African choral / Afro-house fusion",
+    "style": "Choral / Afro-house",
     "facts": [],
     "countries": [
       "ZA"
@@ -215,7 +215,7 @@
     "country": "United States",
     "countryCode": "US",
     "language": "English and Apsáalooke (Crow)",
-    "style": "Indigenous hip-hop / Contemporary Native American fusion",
+    "style": "Indigenous hip-hop",
     "facts": [],
     "countries": [
       "US"
@@ -242,7 +242,7 @@
     "country": "Israel",
     "countryCode": "IL",
     "language": "Hebrew, Arabic, and English",
-    "style": "Contemporary choral pop / Community singing",
+    "style": "Choral pop",
     "facts": [],
     "countries": [
       "IL"
@@ -277,7 +277,7 @@
     "country": "Cuba",
     "countryCode": "CU",
     "language": "Spanish",
-    "style": "Cuban classical piano / Spanish-inspired concert music",
+    "style": "Cuban classical piano",
     "facts": [],
     "countries": [
       "CU"
@@ -303,7 +303,7 @@
     "country": "Japan",
     "countryCode": "JP",
     "language": "Japanese",
-    "style": "Traditional Japanese folk song / Contemporary koto arrangement",
+    "style": "Traditional Japanese / Koto",
     "facts": [],
     "countries": [
       "JP"
@@ -329,7 +329,7 @@
     "country": "Senegal",
     "countryCode": "SN",
     "language": "Mandinka",
-    "style": "Senegalese drumming / West African traditional music",
+    "style": "Senegalese drumming",
     "facts": [],
     "countries": [
       "SN"
@@ -356,7 +356,7 @@
     "country": "India",
     "countryCode": "IN",
     "language": "Hindi and Marathi",
-    "style": "Bollywood film music / Indian celebratory dance",
+    "style": "Bollywood",
     "facts": [],
     "countries": [
       "IN"
@@ -383,7 +383,7 @@
     "country": "New Zealand",
     "countryCode": "NZ",
     "language": "Māori",
-    "style": "Māori waiata / Traditional action song",
+    "style": "Māori waiata",
     "facts": [],
     "countries": [
       "NZ"
@@ -409,7 +409,7 @@
     "country": "Chile",
     "countryCode": "CL",
     "language": "Spanish",
-    "style": "Nueva Canción Chilena / Folk rock / Protest song",
+    "style": "Nueva Canción / Folk rock",
     "facts": [],
     "countries": [
       "CL"
@@ -435,7 +435,7 @@
     "country": "Ethiopia",
     "countryCode": "ET",
     "language": "Oromo (Afaan Oromoo)",
-    "style": "Contemporary Oromo pop / Ethiopian popular music",
+    "style": "Oromo pop",
     "facts": [],
     "countries": [
       "ET"
@@ -461,7 +461,7 @@
     "country": "Greenland",
     "countryCode": "GL",
     "language": "English",
-    "style": "Indie folk-pop / Americana",
+    "style": "Indie folk-pop",
     "facts": [],
     "countries": [
       "GL"
@@ -513,7 +513,7 @@
     "country": "Kenya",
     "countryCode": "KE",
     "language": "Swahili",
-    "style": "Kenyan popular music / Choral cover",
+    "style": "Kenyan pop / Choral",
     "facts": [],
     "countries": [
       "KE"
@@ -539,7 +539,7 @@
     "country": "Syria",
     "countryCode": "SY",
     "language": "Arabic",
-    "style": "Syrian folk-inspired pop / Contemporary Arabic music",
+    "style": "Syrian folk-pop",
     "facts": [],
     "countries": [
       "SY"
@@ -565,7 +565,7 @@
     "country": "Brazil",
     "countryCode": "BR",
     "language": "Portuguese",
-    "style": "Brazilian forró / Contemporary percussion arrangement",
+    "style": "Forró / Percussion",
     "facts": [],
     "countries": [
       "BR"
@@ -591,7 +591,7 @@
     "country": "Philippines",
     "countryCode": "PH",
     "language": "Instrumental / No sung language",
-    "style": "Traditional Filipino folk dance / Bamboo percussion",
+    "style": "Filipino folk dance",
     "facts": [],
     "countries": [
       "PH"
@@ -617,7 +617,7 @@
     "country": "Philippines",
     "countryCode": "PH",
     "language": "Instrumental / No sung language",
-    "style": "Hip-hop / Contemporary Filipino folk-dance fusion",
+    "style": "Hip-hop tinikling",
     "facts": [],
     "countries": [
       "PH"
@@ -643,7 +643,7 @@
     "country": "United States",
     "countryCode": "US",
     "language": "English",
-    "style": "A cappella choral / Community singing",
+    "style": "A cappella / Choral",
     "facts": [],
     "countries": [
       "US"
@@ -669,7 +669,7 @@
     "country": "Cambodia",
     "countryCode": "KH",
     "language": "Khmer",
-    "style": "Cambodian classic pop / Contemporary cover",
+    "style": "Cambodian pop",
     "facts": [],
     "countries": [
       "KH"
@@ -695,7 +695,7 @@
     "country": "Germany",
     "countryCode": "DE",
     "language": "Instrumental / No sung language",
-    "style": "Techno marching band / Electronic-rock cover",
+    "style": "Techno marching band",
     "facts": [],
     "countries": [
       "DE"
@@ -747,7 +747,7 @@
     "country": "United States",
     "countryCode": "US",
     "language": "English",
-    "style": "Progressive instrumental rock / Flamenco and trap influences",
+    "style": "Progressive instrumental rock",
     "facts": [],
     "countries": [
       "US"
@@ -773,7 +773,7 @@
     "country": "Poland",
     "countryCode": "PL",
     "language": "Polish",
-    "style": "Contemporary instrumental guitar / Percussive fingerstyle",
+    "style": "Percussive fingerstyle",
     "facts": [],
     "countries": [
       "PL",
@@ -800,7 +800,7 @@
     "country": "Jamaica",
     "countryCode": "JM",
     "language": "English / Jamaican Patois",
-    "style": "Reggae / Disco fusion",
+    "style": "Reggae / Disco",
     "facts": [],
     "countries": [
       "JM"
@@ -826,7 +826,7 @@
     "country": "Jamaica",
     "countryCode": "JM",
     "language": "English / Jamaican Patois",
-    "style": "Roots reggae / Protest song",
+    "style": "Roots reggae",
     "facts": [],
     "countries": [
       "JM"
@@ -852,7 +852,7 @@
     "country": "Cameroon",
     "countryCode": "CM",
     "language": "Duala",
-    "style": "Makossa / Afro-funk / Jazz fusion",
+    "style": "Makossa / Afro-funk",
     "facts": [],
     "countries": [
       "CM"
@@ -878,7 +878,7 @@
     "country": "Vietnam",
     "countryCode": "VN",
     "language": "Vietnamese",
-    "style": "Vietnamese pop / Folk-inspired pop",
+    "style": "Vietnamese folk-pop",
     "facts": [],
     "countries": [
       "VN"
@@ -904,7 +904,7 @@
     "country": "Egypt",
     "countryCode": "EG",
     "language": "Egyptian Arabic",
-    "style": "Egyptian mahraganat / Electronic street pop",
+    "style": "Mahraganat",
     "facts": [],
     "countries": [
       "EG"
@@ -930,7 +930,7 @@
     "country": "Venezuela",
     "countryCode": "VE",
     "language": "Spanish",
-    "style": "Reggae / Latin ska influences",
+    "style": "Reggae",
     "facts": [],
     "countries": [
       "VE"
@@ -956,7 +956,7 @@
     "country": "Ethiopia",
     "countryCode": "ET",
     "language": "Amharic",
-    "style": "Contemporary Ethiopian pop / Traditional dance influences",
+    "style": "Ethiopian pop",
     "facts": [],
     "countries": [
       "ET"
@@ -982,7 +982,7 @@
     "country": "Ethiopia",
     "countryCode": "ET",
     "language": "Afar",
-    "style": "Contemporary Afar popular music",
+    "style": "Afar pop",
     "facts": [],
     "countries": [
       "ET"
@@ -1009,7 +1009,7 @@
     "country": "Ethiopia",
     "countryCode": "ET",
     "language": "Tigrinya (Tigrigna)",
-    "style": "Contemporary Tigrinya popular music",
+    "style": "Tigrinya pop",
     "facts": [],
     "countries": [
       "ET"
@@ -1061,7 +1061,7 @@
     "country": "Nepal",
     "countryCode": "NP",
     "language": "Nepali",
-    "style": "Nepali festival song / Contemporary folk-inspired music",
+    "style": "Nepali festival song",
     "facts": [],
     "countries": [
       "NP"
@@ -1113,7 +1113,7 @@
     "country": "Australia",
     "countryCode": "AU",
     "language": "Yolŋu Matha",
-    "style": "Indigenous Australian hip-hop / Contemporary rap",
+    "style": "Indigenous hip-hop",
     "facts": [],
     "countries": [
       "AU"
@@ -1166,7 +1166,7 @@
     "country": "Bangladesh",
     "countryCode": "BD",
     "language": "Bengali (Bangla)",
-    "style": "Bengali folk fusion / Contemporary electronic pop",
+    "style": "Bengali folk fusion",
     "facts": [],
     "countries": [
       "BD"
