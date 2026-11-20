@@ -1140,14 +1140,16 @@
     "country": "Colombia",
     "countryCode": "CO",
     "language": "Spanish",
-    "style": "",
+    "style": "Colombian alternative pop / Jazz-influenced indie",
     "facts": [],
     "countries": [
       "CO"
     ],
-    "communities": [],
+    "communities": [
+      "Colombian"
+    ],
     "videoUrl": "",
-    "summary": "Colombian group Nasa Histoires blends pop and jazz. The bougainvillea flower in “Bugambilia” represents hope during difficult feelings.",
+    "summary": "Colombian band Nasa Histoires combines alternative pop with jazz-influenced sounds. In “Bugambilia,” the colorful bougainvillea flower becomes a symbol of love, memories, and hope during difficult times. The song explores strong emotions through expressive singing and a blend of contemporary musical styles.",
     "musicWords": [
       {
         "language": "Spanish",
@@ -1163,15 +1165,17 @@
     "artist": "Pritom Hasan, Fazlu Majhi, Palakar & Ghaashphoring Choir (Coke Studio Bangla)",
     "country": "Bangladesh",
     "countryCode": "BD",
-    "language": "Bengali",
-    "style": "",
+    "language": "Bengali (Bangla)",
+    "style": "Bengali folk fusion / Contemporary electronic pop",
     "facts": [],
     "countries": [
       "BD"
     ],
-    "communities": [],
+    "communities": [
+      "Bangladeshi (Bengali)"
+    ],
     "videoUrl": "",
-    "summary": "Bangladeshi musician Pritom Hasan blends modern pop with traditional boat-racing song influences. “Deora” celebrates teamwork and energy.",
+    "summary": "“Deora” is a Coke Studio Bangla performance that blends traditional Bangladeshi boat-racing songs with modern electronic music. During nouka baich boat races, rhythmic shaari gaan rowing songs help paddlers move together, while jaag gaan encourages the team. Pritom Hasan, Fazlu Majhi, Palakar, and the Ghaashphoring Choir combine group singing, folk storytelling traditions such as pala gaan, and contemporary beats to celebrate Bangladesh's river culture.",
     "musicWords": [
       {
         "language": "Bengali",
@@ -1188,14 +1192,18 @@
     "country": "United States",
     "countryCode": "US",
     "language": "Spanish",
-    "style": "Cha-cha-chá, Latin rock, and Latin fusion",
+    "style": "Cha-cha-chá / Latin rock / Global fusion",
     "facts": [],
     "countries": [
       "US"
     ],
-    "communities": [],
+    "communities": [
+      "Puerto Rican",
+      "Cuban",
+      "Mexican American"
+    ],
     "videoUrl": "",
-    "summary": "“Oye Cómo Va” was written and first recorded in 1962 by Tito Puente, a New York-born musician of Puerto Rican heritage. The song draws on cha-cha-chá, a dance-music style from Cuba. Santana, a U.S. rock band led by Mexican-born guitarist Carlos Santana, made it famous with a Latin rock version in 1970. In this Playing for Change performance, musicians from around the world come together to play the song, combining Latin rhythms, percussion, electric guitar, and other musical influences.",
+    "summary": "“Oye Cómo Va” was written and recorded in 1962 by Tito Puente, a New York-born musician of Puerto Rican heritage, drawing on Cuban cha-cha-chá rhythms. Mexican-born guitarist Carlos Santana helped make it internationally famous with his band's 1970 Latin rock version. This Playing for Change performance brings together more than 20 musicians from countries around the world, combining percussion, electric guitar, singing, and musical traditions across continents.",
     "musicWords": [
       {
         "language": "Spanish",
